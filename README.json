@@ -1,0 +1,217 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "🏛 The landmark papers that I respect"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Applications using GANs"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "🔤 Font generation"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "🎴 Anime character generation"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "🎭 Face Stylization"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "🎮 Interactive Image generation"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "🔧 GAN Inversion and Latent Space Editing"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "✍ Text2Image (text to image)"
+    },
+    {
+      "description": "GANs strike back in 2024–2026: adversarial objectives distill slow diffusion samplers into one/few-step image and video generators — where GANs are most alive in 2025–2026.\n↑ back to Contents",
+      "items": [],
+      "title": "⚡ Adversarial Diffusion Distillation (GAN-hybrid)"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "🧊 3D Object generation"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "🌐 3D-aware Image Synthesis"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "✏ Image Editing"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "👴 Face Aging"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "🕺 Human Pose Estimation"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "🗣 Talking Head and Face Reenactment"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "👗 Virtual Try-On"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "🔄 Domain-transfer (e.g. style-transfer, pix2pix, sketch2image)"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "🩹 Image Inpainting (hole filling)"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "🪄 Image Blending"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "🔍 Super-resolution"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "🖼 High-resolution image generation (large-scale image)"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "🛡 Adversarial Examples (Defense vs Attack)"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "👁 Visual Saliency Prediction (attention prediction)"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "🎯 Object Detection/Recognition"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "🎬 Video (generation/prediction)"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "🔊 Audio and Speech Synthesis"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "🔡 Text and Sequence Generation"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "🚨 Anomaly Detection"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "🧪 Synthetic Data Generation"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "🧩 Others"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Did not use GAN, but still interesting applications."
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "🧑 Real-time face reconstruction"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "🔍 Super-resolution"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "🖼 Photorealistic Image generation (e.g. pix2pix, sketch2image)"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "🕺 Human Pose Estimation"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "🧊 3D Object generation"
+    },
+    {
+      "description": "Genuinely awesome, widely-used GitHub repos built on GANs — usable code and tools, not just papers. Star counts update automatically.",
+      "items": [],
+      "title": "🛠 Awesome GAN GitHub Projects and Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Real-world applications and tools"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "Foundational model code (official / canonical)"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [],
+      "title": "🧰 Implementations of various types of GANs collection"
+    },
+    {
+      "description": "Minchul Shin, @nashory\nAny recommendations to add to the list are welcome — see CONTRIBUTING.md and feel free to make pull requests! :)",
+      "items": [],
+      "title": "Author"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:11:58.190Z",
+    "original_repository": "nashory/gans-awesome-applications",
+    "original_repository_sha": "4e090dc831b5b48a573ea7f08707f064429d3b14",
+    "enhanced_repository": "enhansome/gans-enhansome-applications",
+    "enhanced_repository_description": null,
+    "title": "gans-awesome-applications with stars"
+  }
+}
