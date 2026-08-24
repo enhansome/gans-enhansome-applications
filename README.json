@@ -1,7 +1,1605 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Generative Adversarial Networks",
+          "description": "NeurIPS 2014 📄 💻",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20651238,
+            "language": "Python",
+            "last_commit": "2020-05-25T03:31:19Z",
+            "owner": "goodfeli",
+            "repo": "adversarial",
+            "stars": 4077
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unsupervised Representation Learning with Deep Convolutional GANs (DCGAN)",
+          "description": "ICLR 2016 📄 💻",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 47232899,
+            "language": "Lua",
+            "last_commit": "2021-08-02T01:46:39Z",
+            "owner": "soumith",
+            "repo": "dcgan.torch",
+            "stars": 1488
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Improved Techniques for Training GANs",
+          "description": "NeurIPS 2016 📄 💻",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 60708386,
+            "language": "Python",
+            "last_commit": "2018-11-21T23:56:07Z",
+            "owner": "openai",
+            "repo": "improved-gan",
+            "stars": 2333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BEGAN: Boundary Equilibrium Generative Adversarial Networks",
+          "description": "— 2017 📄 💻",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 87318375,
+            "language": "Python",
+            "last_commit": "2018-03-26T15:26:02Z",
+            "owner": "carpedm20",
+            "repo": "BEGAN-tensorflow",
+            "stars": 924
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Training Generative Adversarial Networks with Limited Data (StyleGAN2-ADA)",
+          "description": "NeurIPS 2020 📄 💻",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 329045912,
+            "language": "Python",
+            "last_commit": "2024-05-10T18:13:37Z",
+            "owner": "NVlabs",
+            "repo": "stylegan2-ada-pytorch",
+            "stars": 4485
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The GAN is dead; long live the GAN! A Modern GAN Baseline (R3GAN)",
+          "description": "NeurIPS 2024 📄 💻",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 880972521,
+            "language": "Python",
+            "last_commit": "2025-01-23T16:43:10Z",
+            "owner": "brownvc",
+            "repo": "R3GAN",
+            "stars": 870
+          }
+        }
+      ],
+      "title": "🏛 The landmark papers that I respect"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Learning Chinese Character Style with Conditional GAN (zi2zi)",
+              "description": "— 2017 💻 📝",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82346425,
+                "language": "Python",
+                "last_commit": "2019-08-09T04:02:31Z",
+                "owner": "kaonashi-tyc",
+                "repo": "zi2zi",
+                "stars": 2745
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Artistic Glyph Image Synthesis via One-Stage Few-Shot Learning (AGIS-Net)",
+              "description": "SIGGRAPH Asia 2019 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 205121294,
+                "language": "Python",
+                "last_commit": "2024-02-01T19:10:42Z",
+                "owner": "ueoo",
+                "repo": "AGIS-Net",
+                "stars": 130
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Attribute2Font: Creating Fonts You Want From Attributes",
+              "description": "SIGGRAPH 2020 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 258786045,
+                "language": "Python",
+                "last_commit": "2022-04-26T09:53:28Z",
+                "owner": "ueoo",
+                "repo": "Attr2Font",
+                "stars": 232
+              }
+            }
+          ],
+          "description": "↑ back to Contents",
+          "node_type": "group",
+          "title": "🔤 Font generation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AnimeGANv2: Photo to Anime Style Transfer",
+              "description": "— 2021 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 285840886,
+                "language": "Python",
+                "last_commit": "2024-08-27T04:44:47Z",
+                "owner": "TachibanaYoshino",
+                "repo": "AnimeGANv2",
+                "stars": 5371
+              }
+            }
+          ],
+          "description": "↑ back to Contents",
+          "node_type": "group",
+          "title": "🎴 Anime character generation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JoJoGAN: One Shot Face Stylization",
+              "description": "ECCV 2022 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 439414271,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-09-29T18:53:09Z",
+                "owner": "mchong6",
+                "repo": "JoJoGAN",
+                "stars": 1438
+              }
+            }
+          ],
+          "description": "↑ back to Contents",
+          "node_type": "group",
+          "title": "🎭 Face Stylization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Generative Visual Manipulation on the Natural Image Manifold (iGAN)",
+              "description": "ECCV 2016 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68788179,
+                "language": "Python",
+                "last_commit": "2020-08-05T01:05:44Z",
+                "owner": "junyanz",
+                "repo": "iGAN",
+                "stars": 4005
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Neural Photo Editing with Introspective Adversarial Networks",
+              "description": "ICLR 2017 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68827685,
+                "language": "Python",
+                "last_commit": "2017-03-22T11:38:44Z",
+                "owner": "ajbrock",
+                "repo": "Neural-Photo-Editor",
+                "stars": 2074
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold (DragGAN)",
+              "description": "SIGGRAPH 2023 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 642323624,
+                "language": "Python",
+                "last_commit": "2024-05-18T17:51:40Z",
+                "owner": "XingangPan",
+                "repo": "DragGAN",
+                "stars": 35758
+              }
+            }
+          ],
+          "description": "↑ back to Contents",
+          "node_type": "group",
+          "title": "🎮 Interactive Image generation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery",
+              "description": "ICCV 2021 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 338780080,
+                "language": "HTML",
+                "last_commit": "2023-05-30T19:57:17Z",
+                "owner": "orpatashnik",
+                "repo": "StyleCLIP",
+                "stars": 4121
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation (pSp)",
+              "description": "CVPR 2021 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 300247371,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-10-01T11:23:39Z",
+                "owner": "eladrich",
+                "repo": "pixel2style2pixel",
+                "stars": 3347
+              }
+            }
+          ],
+          "description": "↑ back to Contents",
+          "node_type": "group",
+          "title": "🔧 GAN Inversion and Latent Space Editing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TAC-GAN: Text Conditioned Auxiliary Classifier GAN",
+              "description": "— 2017 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92270845,
+                "language": "Python",
+                "last_commit": "2019-04-26T21:31:10Z",
+                "owner": "dashayushman",
+                "repo": "TAC-GAN",
+                "stars": 105
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "StackGAN: Text to Photo-realistic Image Synthesis with Stacked GANs",
+              "description": "ICCV 2017 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77115049,
+                "language": "Python",
+                "last_commit": "2020-05-15T19:05:57Z",
+                "owner": "hanzhanggit",
+                "repo": "StackGAN",
+                "stars": 1860
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Generative Adversarial Text to Image Synthesis",
+              "description": "ICML 2016 📄 💻 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65850354,
+                "language": "Python",
+                "last_commit": "2018-01-30T16:29:57Z",
+                "owner": "paarthneekhara",
+                "repo": "text-to-image",
+                "stars": 2163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learning What and Where to Draw",
+              "description": "NeurIPS 2016 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70289321,
+                "language": "Lua",
+                "last_commit": "2016-11-01T01:55:44Z",
+                "owner": "reedscot",
+                "repo": "nips2016",
+                "stars": 335
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AttnGAN: Fine-Grained Text to Image Generation with Attentional GANs",
+              "description": "CVPR 2018 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 122099710,
+                "language": "Python",
+                "last_commit": "2024-07-25T04:54:47Z",
+                "owner": "taoxugit",
+                "repo": "AttnGAN",
+                "stars": 1363
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis",
+              "description": "ICML 2023 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 591370247,
+                "language": "Python",
+                "last_commit": "2023-04-07T08:58:50Z",
+                "owner": "autonomousvision",
+                "repo": "stylegan-t",
+                "stars": 1197
+              }
+            }
+          ],
+          "description": "↑ back to Contents",
+          "node_type": "group",
+          "title": "✍ Text2Image (text to image)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Improved Distribution Matching Distillation for Fast Image Synthesis (DMD2)",
+              "description": "NeurIPS 2024 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 805164005,
+                "language": "Python",
+                "last_commit": "2025-03-05T06:04:36Z",
+                "owner": "tianweiy",
+                "repo": "DMD2",
+                "stars": 1437
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SANA-Sprint: One-Step Diffusion with Continuous-Time Consistency Distillation",
+              "description": "arXiv 2025 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 871368615,
+                "language": "Python",
+                "last_commit": "2026-08-23T10:12:16Z",
+                "owner": "NVlabs",
+                "repo": "Sana",
+                "stars": 8811
+              }
+            }
+          ],
+          "description": "GANs strike back in 2024–2026: adversarial objectives distill slow diffusion samplers into one/few-step image and video generators — where GANs are most alive in 2025–2026.\n↑ back to Contents",
+          "node_type": "group",
+          "title": "⚡ Adversarial Diffusion Distillation (GAN-hybrid)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Parametric 3D Exploration with Stacked Adversarial Networks (pix2vox)",
+              "description": "— 2016 💻 🎬",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89796720,
+                "language": "Python",
+                "last_commit": "2018-03-19T08:19:12Z",
+                "owner": "maxorange",
+                "repo": "pix2vox",
+                "stars": 246
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling (3D-GAN)",
+              "description": "NeurIPS 2016 📄 💻 🎬",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76320688,
+                "language": "Python",
+                "last_commit": "2017-10-21T20:53:38Z",
+                "owner": "zck119",
+                "repo": "3dgan-release",
+                "stars": 825
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fully Convolutional Refined Auto-Encoding GANs for 3D Multi Object Scenes",
+              "description": "— 2017 💻 📝",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101454107,
+                "language": "Python",
+                "last_commit": "2019-01-17T14:45:10Z",
+                "owner": "yunishi3",
+                "repo": "3D-FCR-alphaGAN",
+                "stars": 104
+              }
+            }
+          ],
+          "description": "↑ back to Contents",
+          "node_type": "group",
+          "title": "🧊 3D Object generation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Efficient Geometry-aware 3D Generative Adversarial Networks (EG3D)",
+              "description": "CVPR 2022 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 438565846,
+                "language": "Python",
+                "last_commit": "2023-06-10T19:59:28Z",
+                "owner": "NVlabs",
+                "repo": "eg3d",
+                "stars": 3338
+              }
+            }
+          ],
+          "description": "↑ back to Contents",
+          "node_type": "group",
+          "title": "🌐 3D-aware Image Synthesis"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Invertible Conditional GANs for Image Editing (IcGAN)",
+              "description": "— 2016 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 58887547,
+                "language": "Lua",
+                "last_commit": "2021-09-28T08:25:26Z",
+                "owner": "Guim3",
+                "repo": "IcGAN",
+                "stars": 284
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Image De-raining Using a Conditional GAN (ID-CGAN)",
+              "description": "— 2017 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79967049,
+                "language": "Lua",
+                "last_commit": "2022-11-20T20:24:25Z",
+                "owner": "hezhangsprinter",
+                "repo": "ID-CGAN",
+                "stars": 266
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks",
+              "description": "CVPR 2018 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89488284,
+                "language": "Python",
+                "last_commit": "2019-12-25T18:40:00Z",
+                "owner": "KupynOrest",
+                "repo": "DeblurGAN",
+                "stars": 2639
+              }
+            }
+          ],
+          "description": "↑ back to Contents",
+          "node_type": "group",
+          "title": "✏ Image Editing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Age Progression/Regression by Conditional Adversarial Autoencoder (CAAE)",
+              "description": "CVPR 2017 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85919055,
+                "language": "Python",
+                "last_commit": "2021-05-08T17:45:46Z",
+                "owner": "ZZUTK",
+                "repo": "Face-Aging-CAAE",
+                "stars": 657
+              }
+            }
+          ],
+          "description": "↑ back to Contents",
+          "node_type": "group",
+          "title": "👴 Face Aging"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Joint Discriminative and Generative Learning for Person Re-identification (DG-Net)",
+              "description": "CVPR 2019 📄 💻 🎬",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194320424,
+                "language": "Python",
+                "last_commit": "2023-07-09T10:24:47Z",
+                "owner": "NVlabs",
+                "repo": "DG-Net",
+                "stars": 1298
+              }
+            }
+          ],
+          "description": "↑ back to Contents",
+          "node_type": "group",
+          "title": "🕺 Human Pose Estimation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "First Order Motion Model for Image Animation",
+              "description": "NeurIPS 2019 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 227272405,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-11-14T03:16:41Z",
+                "owner": "AliaksandrSiarohin",
+                "repo": "first-order-model",
+                "stars": 15015
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild (Wav2Lip)",
+              "description": "ACM MM 2020 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 285774113,
+                "language": "Python",
+                "last_commit": "2025-06-22T02:41:21Z",
+                "owner": "Rudrabha",
+                "repo": "Wav2Lip",
+                "stars": 13177
+              }
+            }
+          ],
+          "description": "↑ back to Contents",
+          "node_type": "group",
+          "title": "🗣 Talking Head and Face Reenactment"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization",
+              "description": "CVPR 2021 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 353640853,
+                "language": "Python",
+                "last_commit": "2025-04-27T14:52:13Z",
+                "owner": "shadow2496",
+                "repo": "VITON-HD",
+                "stars": 1161
+              }
+            }
+          ],
+          "description": "↑ back to Contents",
+          "node_type": "group",
+          "title": "👗 Virtual Try-On"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Image-to-Image Translation with Conditional Adversarial Networks (pix2pix)",
+              "description": "CVPR 2017 📄 💻 🎬",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73968389,
+                "language": "Lua",
+                "last_commit": "2021-06-06T12:09:47Z",
+                "owner": "phillipi",
+                "repo": "pix2pix",
+                "stars": 10653
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (CycleGAN)",
+              "description": "ICCV 2017 📄 💻 🎬",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86721514,
+                "language": "Lua",
+                "last_commit": "2023-09-12T19:48:53Z",
+                "owner": "junyanz",
+                "repo": "CycleGAN",
+                "stars": 12871
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learning to Discover Cross-Domain Relations with GANs (DiscoGAN)",
+              "description": "ICML 2017 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85299452,
+                "language": "Jupyter Notebook",
+                "last_commit": "2018-03-26T15:26:18Z",
+                "owner": "carpedm20",
+                "repo": "DiscoGAN-pytorch",
+                "stars": 1095
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "StarGAN: Unified Multi-Domain Image-to-Image Translation",
+              "description": "CVPR 2018 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112133243,
+                "language": "Python",
+                "last_commit": "2021-01-23T15:09:58Z",
+                "owner": "yunjey",
+                "repo": "stargan",
+                "stars": 5294
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "StarGAN v2: Diverse Image Synthesis for Multiple Domains",
+              "description": "CVPR 2020 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 225813090,
+                "language": "Python",
+                "last_commit": "2023-04-27T00:58:48Z",
+                "owner": "clovaai",
+                "repo": "stargan-v2",
+                "stars": 3616
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Multimodal Unsupervised Image-to-Image Translation (MUNIT)",
+              "description": "ECCV 2018 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 127476512,
+                "language": "Python",
+                "last_commit": "2022-09-20T12:23:52Z",
+                "owner": "NVlabs",
+                "repo": "MUNIT",
+                "stars": 2707
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Precomputed Real-Time Texture Synthesis with Markovian GANs (MGANs)",
+              "description": "ECCV 2016 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55839597,
+                "language": "Lua",
+                "last_commit": "2019-10-12T20:14:06Z",
+                "owner": "chuanli11",
+                "repo": "MGANs",
+                "stars": 291
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pixel-Level Domain Transfer (PixelDTGAN)",
+              "description": "ECCV 2016 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63136727,
+                "language": "Lua",
+                "last_commit": "2017-11-01T18:35:08Z",
+                "owner": "fxia22",
+                "repo": "PixelDTGAN",
+                "stars": 262
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deep Photo Style Transfer",
+              "description": "CVPR 2017 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85786010,
+                "language": "Matlab",
+                "last_commit": "2021-08-02T01:07:44Z",
+                "owner": "luanfujun",
+                "repo": "deep-photo-styletransfer",
+                "stars": 9989
+              }
+            }
+          ],
+          "description": "↑ back to Contents",
+          "node_type": "group",
+          "title": "🔄 Domain-transfer (e.g. style-transfer, pix2pix, sketch2image)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Context Encoders: Feature Learning by Inpainting",
+              "description": "CVPR 2016 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56881233,
+                "language": "Lua",
+                "last_commit": "2020-07-19T21:37:48Z",
+                "owner": "pathak22",
+                "repo": "context-encoder",
+                "stars": 907
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Semantic Image Inpainting with Perceptual and Contextual Losses",
+              "description": "CVPR 2017 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65300077,
+                "language": "Python",
+                "last_commit": "2017-07-18T11:08:45Z",
+                "owner": "bamos",
+                "repo": "dcgan-completion.tensorflow",
+                "stars": 1316
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Free-Form Image Inpainting with Gated Convolution (DeepFill v2)",
+              "description": "ICCV 2019 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118721409,
+                "language": "Python",
+                "last_commit": "2024-06-27T08:18:38Z",
+                "owner": "JiahuiYu",
+                "repo": "generative_inpainting",
+                "stars": 3466
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Resolution-robust Large Mask Inpainting with Fourier Convolutions (LaMa)",
+              "description": "WACV 2022 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 401446691,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-02-05T08:41:52Z",
+                "owner": "advimman",
+                "repo": "lama",
+                "stars": 10213
+              }
+            }
+          ],
+          "description": "↑ back to Contents",
+          "node_type": "group",
+          "title": "🩹 Image Inpainting (hole filling)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GP-GAN: Towards Realistic High-Resolution Image Blending",
+              "description": "ACM MM 2019 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85825693,
+                "language": "Python",
+                "last_commit": "2020-03-27T04:26:33Z",
+                "owner": "wuhuikai",
+                "repo": "GP-GAN",
+                "stars": 472
+              }
+            }
+          ],
+          "description": "↑ back to Contents",
+          "node_type": "group",
+          "title": "🪄 Image Blending"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Image Super-Resolution Through Deep Learning (srez)",
+              "description": "— 2016 💻",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 66682814,
+                "language": "Python",
+                "last_commit": "2017-08-16T10:48:45Z",
+                "owner": "david-gpu",
+                "repo": "srez",
+                "stars": 5270
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Photo-Realistic Single Image Super-Resolution Using a GAN (SRGAN)",
+              "description": "CVPR 2017 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88890801,
+                "language": "Python",
+                "last_commit": "2024-02-22T02:05:20Z",
+                "owner": "tensorlayer",
+                "repo": "SRGAN",
+                "stars": 3467
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Analyzing Perception-Distortion Tradeoff (EPSR)",
+              "description": "ECCVW 2018 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148771657,
+                "language": "Python",
+                "last_commit": "2020-07-14T08:12:06Z",
+                "owner": "subeeshvasu",
+                "repo": "2018_subeesh_epsr_eccvw",
+                "stars": 79
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks",
+              "description": "ECCVW 2018 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 146862976,
+                "language": "Python",
+                "last_commit": "2022-10-19T02:33:55Z",
+                "owner": "xinntao",
+                "repo": "ESRGAN",
+                "stars": 6570
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data",
+              "description": "ICCVW 2021 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 387326890,
+                "language": "Python",
+                "last_commit": "2024-08-06T13:15:18Z",
+                "owner": "xinntao",
+                "repo": "Real-ESRGAN",
+                "stars": 36569
+              }
+            }
+          ],
+          "description": "↑ back to Contents",
+          "node_type": "group",
+          "title": "🔍 Super-resolution"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Generating Large Images from Latent Vectors",
+              "description": "— 2016 💻 📝",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55239156,
+                "language": "Python",
+                "last_commit": "2021-04-08T15:36:14Z",
+                "owner": "hardmaru",
+                "repo": "cppn-gan-vae-tensorflow",
+                "stars": 347
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Progressive Growing of GANs for Improved Quality, Stability, and Variation (PGGAN)",
+              "description": "ICLR 2018 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108524017,
+                "language": "Python",
+                "last_commit": "2022-02-17T12:44:14Z",
+                "owner": "tkarras",
+                "repo": "progressive_growing_of_gans",
+                "stars": 6179
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SinGAN: Learning a Generative Model from a Single Natural Image",
+              "description": "ICCV 2019 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 202940640,
+                "language": "Python",
+                "last_commit": "2023-05-26T07:19:48Z",
+                "owner": "tamarott",
+                "repo": "SinGAN",
+                "stars": 3344
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Analyzing and Improving the Image Quality of StyleGAN (StyleGAN2)",
+              "description": "CVPR 2020 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 224284178,
+                "language": "Python",
+                "last_commit": "2024-05-18T15:55:42Z",
+                "owner": "NVlabs",
+                "repo": "stylegan2",
+                "stars": 11184
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Alias-Free Generative Adversarial Networks (StyleGAN3)",
+              "description": "NeurIPS 2021 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 414545335,
+                "language": "Python",
+                "last_commit": "2023-09-12T17:04:25Z",
+                "owner": "NVlabs",
+                "repo": "stylegan3",
+                "stars": 6942
+              }
+            }
+          ],
+          "description": "↑ back to Contents",
+          "node_type": "group",
+          "title": "🖼 High-resolution image generation (large-scale image)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SalGAN: Visual Saliency Prediction with Generative Adversarial Networks",
+              "description": "— 2017 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76941353,
+                "language": "Python",
+                "last_commit": "2022-12-07T23:36:39Z",
+                "owner": "imatge-upc",
+                "repo": "salgan",
+                "stars": 380
+              }
+            }
+          ],
+          "description": "↑ back to Contents",
+          "node_type": "group",
+          "title": "👁 Visual Saliency Prediction (attention prediction)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Deep Multi-Scale Video Prediction Beyond Mean Square Error",
+              "description": "ICLR 2016 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65582754,
+                "language": "Python",
+                "last_commit": "2021-10-23T19:38:17Z",
+                "owner": "dyelax",
+                "repo": "Adversarial_Video_Generation",
+                "stars": 748
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learning Temporal Coherence via Self-Supervision for GAN-based Video Generation (TecoGAN)",
+              "description": "SIGGRAPH 2020 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 174698235,
+                "language": "Python",
+                "last_commit": "2023-08-17T20:55:56Z",
+                "owner": "thunil",
+                "repo": "TecoGAN",
+                "stars": 6141
+              }
+            }
+          ],
+          "description": "↑ back to Contents",
+          "node_type": "group",
+          "title": "🎬 Video (generation/prediction)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Adversarial Audio Synthesis (WaveGAN)",
+              "description": "ICLR 2019 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120957530,
+                "language": "Python",
+                "last_commit": "2022-11-27T22:29:32Z",
+                "owner": "chrisdonahue",
+                "repo": "wavegan",
+                "stars": 1383
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HiFi-GAN: GANs for Efficient and High Fidelity Speech Synthesis",
+              "description": "NeurIPS 2020 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 303981258,
+                "language": "Python",
+                "last_commit": "2024-07-27T20:56:30Z",
+                "owner": "jik876",
+                "repo": "hifi-gan",
+                "stars": 2366
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BigVGAN: A Universal Neural Vocoder with Large-Scale Training (v2 2024)",
+              "description": "ICLR 2023 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 500933346,
+                "language": "Python",
+                "last_commit": "2024-09-05T03:50:02Z",
+                "owner": "NVIDIA",
+                "repo": "BigVGAN",
+                "stars": 1227
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vocos: Closing the Gap between Time-domain and Fourier-based Neural Vocoders",
+              "description": "ICLR 2024 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 648152119,
+                "language": "Python",
+                "last_commit": "2024-08-07T11:07:23Z",
+                "owner": "gemelo-ai",
+                "repo": "vocos",
+                "stars": 1151
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BemaGANv2: Discriminator Combination Strategies for GAN-based Vocoders in Long-Term Audio",
+              "description": "arXiv 2025 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 828772678,
+                "language": "Python",
+                "last_commit": "2026-03-03T12:41:32Z",
+                "owner": "dinhoitt",
+                "repo": "BemaGANv2",
+                "stars": 22
+              }
+            }
+          ],
+          "description": "↑ back to Contents",
+          "node_type": "group",
+          "title": "🔊 Audio and Speech Synthesis"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient",
+              "description": "AAAI 2017 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68514142,
+                "language": "Python",
+                "last_commit": "2019-03-10T15:29:18Z",
+                "owner": "LantaoYu",
+                "repo": "SeqGAN",
+                "stars": 2092
+              }
+            }
+          ],
+          "description": "↑ back to Contents",
+          "node_type": "group",
+          "title": "🔡 Text and Sequence Generation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Learning from Simulated and Unsupervised Images through Adversarial Training (SimGAN)",
+              "description": "CVPR 2017 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77440857,
+                "language": "Python",
+                "last_commit": "2019-12-10T02:36:54Z",
+                "owner": "carpedm20",
+                "repo": "simulated-unsupervised-tensorflow",
+                "stars": 575
+              }
+            }
+          ],
+          "description": "↑ back to Contents",
+          "node_type": "group",
+          "title": "🧪 Synthetic Data Generation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "(Physics) Location-Aware Generative Adversarial Networks for Physics Synthesis",
+              "description": "— 2017 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74294060,
+                "language": "Jupyter Notebook",
+                "last_commit": "2017-08-25T18:52:17Z",
+                "owner": "hep-lbdl",
+                "repo": "adversarial-jets",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "(General) Spectral Normalization for Generative Adversarial Networks",
+              "description": "ICLR 2018 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103333179,
+                "language": "Python",
+                "last_commit": "2017-09-25T00:55:57Z",
+                "owner": "minhnhat93",
+                "repo": "tf-SNDCGAN",
+                "stars": 250
+              }
+            }
+          ],
+          "description": "↑ back to Contents",
+          "node_type": "group",
+          "title": "🧩 Others"
+        }
+      ],
+      "title": "Applications using GANs"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Model-based Deep Convolutional Face Autoencoder for Unsupervised Monocular Reconstruction (MoFA)",
+              "description": "ICCV 2017 📄 💻 🎬",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93322337,
+                "language": "Jupyter Notebook",
+                "last_commit": "2017-06-05T02:02:06Z",
+                "owner": "waxz",
+                "repo": "MoFA",
+                "stars": 34
+              }
+            }
+          ],
+          "description": "↑ back to Contents",
+          "node_type": "group",
+          "title": "🧑 Real-time face reconstruction"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PatchMatch: A Randomized Correspondence Algorithm for Structural Image Editing",
+              "description": "SIGGRAPH 2009 📄 💻 🎬",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12489481,
+                "language": "C",
+                "last_commit": "2025-05-07T07:55:12Z",
+                "owner": "younesse-cv",
+                "repo": "PatchMatch",
+                "stars": 132
+              }
+            }
+          ],
+          "description": "↑ back to Contents",
+          "node_type": "group",
+          "title": "🖼 Photorealistic Image generation (e.g. pix2pix, sketch2image)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Knowledge-Guided Deep Fractal Neural Networks for Human Pose Estimation",
+              "description": "— 2017 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90662380,
+                "language": "Matlab",
+                "last_commit": "2018-09-27T18:59:50Z",
+                "owner": "Guanghan",
+                "repo": "GNet-pose",
+                "stars": 88
+              }
+            }
+          ],
+          "description": "↑ back to Contents",
+          "node_type": "group",
+          "title": "🕺 Human Pose Estimation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction",
+              "description": "ECCV 2016 📄 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65103398,
+                "language": "Python",
+                "last_commit": "2021-07-16T02:33:14Z",
+                "owner": "chrischoy",
+                "repo": "3D-R2N2",
+                "stars": 1410
+              }
+            }
+          ],
+          "description": "↑ back to Contents",
+          "node_type": "group",
+          "title": "🧊 3D Object generation"
+        }
+      ],
+      "title": "Did not use GAN, but still interesting applications."
+    },
+    {
+      "description": "Genuinely awesome, widely-used GitHub repos built on GANs — usable code and tools, not just papers. Star counts update automatically.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TencentARC/GFPGAN",
+              "description": "Practical real-world face restoration",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 349321229,
+                "language": "Python",
+                "last_commit": "2024-07-26T18:44:02Z",
+                "owner": "TencentARC",
+                "repo": "GFPGAN",
+                "stars": 37658
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jantic/DeOldify",
+              "description": "Colorize and restore old photos and video (archived)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 155636246,
+                "language": "Python",
+                "last_commit": "2024-10-19T17:17:35Z",
+                "owner": "jantic",
+                "repo": "DeOldify",
+                "stars": 18483
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Real-world applications and tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "junyanz/pytorch-CycleGAN-and-pix2pix",
+              "description": "Official CycleGAN + pix2pix in PyTorch",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88612945,
+                "language": "Python",
+                "last_commit": "2025-08-06T17:58:38Z",
+                "owner": "junyanz",
+                "repo": "pytorch-CycleGAN-and-pix2pix",
+                "stars": 25226
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NVlabs/stylegan",
+              "description": "Official StyleGAN",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 169100692,
+                "language": "Python",
+                "last_commit": "2024-04-10T08:30:29Z",
+                "owner": "NVlabs",
+                "repo": "stylegan",
+                "stars": 14416
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NVlabs/SPADE",
+              "description": "Semantic image synthesis, a.k.a. GauGAN",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 175539152,
+                "language": "Python",
+                "last_commit": "2023-08-07T10:52:48Z",
+                "owner": "NVlabs",
+                "repo": "SPADE",
+                "stars": 7717
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NVIDIA/pix2pixHD",
+              "description": "High-resolution image synthesis and manipulation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112777740,
+                "language": "Python",
+                "last_commit": "2024-11-04T18:13:20Z",
+                "owner": "NVIDIA",
+                "repo": "pix2pixHD",
+                "stars": 6923
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ajbrock/BigGAN-PyTorch",
+              "description": "The author's PyTorch BigGAN",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 166696954,
+                "language": "Python",
+                "last_commit": "2023-07-19T17:08:51Z",
+                "owner": "ajbrock",
+                "repo": "BigGAN-PyTorch",
+                "stars": 2923
+              }
+            }
+          ],
+          "description": "↑ back to Contents",
+          "node_type": "group",
+          "title": "Foundational model code (official / canonical)"
+        }
+      ],
+      "title": "🛠 Awesome GAN GitHub Projects and Tools"
+    },
+    {
+      "description": "↑ back to Contents",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nashory/gans-collection.torch",
+          "description": "Torch7",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 103339063,
+            "language": "Lua",
+            "last_commit": "2017-10-14T14:42:00Z",
+            "owner": "nashory",
+            "repo": "gans-collection.torch",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hwalsuklee/tensorflow-generative-model-collections",
+          "description": "TensorFlow",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 101303567,
+            "language": "Python",
+            "last_commit": "2022-08-08T09:39:51Z",
+            "owner": "hwalsuklee",
+            "repo": "tensorflow-generative-model-collections",
+            "stars": 3918
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wiseodd/generative-models",
+          "description": "PyTorch & TensorFlow",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 75829600,
+            "language": "Python",
+            "last_commit": "2024-03-24T20:38:46Z",
+            "owner": "wiseodd",
+            "repo": "generative-models",
+            "stars": 7494
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aboev/arae-tf",
+          "description": "TensorFlow",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 117149990,
+            "language": "Python",
+            "last_commit": "2018-02-04T12:28:34Z",
+            "owner": "aboev",
+            "repo": "arae-tf",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eriklindernoren/PyTorch-GAN",
+          "description": "PyTorch — dozens of GANs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 130474497,
+            "language": "Python",
+            "last_commit": "2024-06-18T07:08:31Z",
+            "owner": "eriklindernoren",
+            "repo": "PyTorch-GAN",
+            "stars": 17446
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eriklindernoren/Keras-GAN",
+          "description": "Keras — many GANs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 96913967,
+            "language": "Python",
+            "last_commit": "2022-12-12T05:55:51Z",
+            "owner": "eriklindernoren",
+            "repo": "Keras-GAN",
+            "stars": 9204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NVlabs/imaginaire",
+          "description": "PyTorch — NVIDIA image & video synthesis GANs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 279729856,
+            "language": "Python",
+            "last_commit": "2022-11-29T10:24:50Z",
+            "owner": "NVlabs",
+            "repo": "imaginaire",
+            "stars": 4082
+          }
+        }
+      ],
+      "title": "🧰 Implementations of various types of GANs collection"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T02:56:52.568Z",
+    "last_updated": "2026-08-24T13:58:35.382Z",
     "original_repository": "nashory/gans-awesome-applications",
     "original_repository_id": 106639043,
     "original_repository_sha": "4e090dc831b5b48a573ea7f08707f064429d3b14",
