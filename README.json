@@ -410,7 +410,7 @@
                 "last_commit": "2026-08-23T10:12:16Z",
                 "owner": "NVlabs",
                 "repo": "Sana",
-                "stars": 8814
+                "stars": 8816
               }
             }
           ],
@@ -952,7 +952,7 @@
                 "last_commit": "2024-08-06T13:15:18Z",
                 "owner": "xinntao",
                 "repo": "Real-ESRGAN",
-                "stars": 36575
+                "stars": 36578
               }
             }
           ],
@@ -1378,7 +1378,7 @@
                 "last_commit": "2024-07-26T18:44:02Z",
                 "owner": "TencentARC",
                 "repo": "GFPGAN",
-                "stars": 37659
+                "stars": 37658
               }
             },
             {
@@ -1415,7 +1415,7 @@
                 "last_commit": "2025-08-06T17:58:38Z",
                 "owner": "junyanz",
                 "repo": "pytorch-CycleGAN-and-pix2pix",
-                "stars": 25227
+                "stars": 25228
               }
             },
             {
@@ -1599,7 +1599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:52:27.887Z",
+    "last_updated": "2026-08-25T05:49:29.886Z",
     "original_repository": "nashory/gans-awesome-applications",
     "original_repository_id": 106639043,
     "original_repository_sha": "4e090dc831b5b48a573ea7f08707f064429d3b14",
