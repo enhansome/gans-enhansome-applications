@@ -15,7 +15,7 @@
             "last_commit": "2020-05-25T03:31:19Z",
             "owner": "goodfeli",
             "repo": "adversarial",
-            "stars": 4077
+            "stars": 4078
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2024-05-10T18:13:37Z",
             "owner": "NVlabs",
             "repo": "stylegan2-ada-pytorch",
-            "stars": 4485
+            "stars": 4487
           }
         },
         {
@@ -276,7 +276,7 @@
                 "last_commit": "2022-10-01T11:23:39Z",
                 "owner": "eladrich",
                 "repo": "pixel2style2pixel",
-                "stars": 3348
+                "stars": 3349
               }
             }
           ],
@@ -395,7 +395,7 @@
                 "last_commit": "2025-03-05T06:04:36Z",
                 "owner": "tianweiy",
                 "repo": "DMD2",
-                "stars": 1437
+                "stars": 1438
               }
             },
             {
@@ -410,7 +410,7 @@
                 "last_commit": "2026-08-23T10:12:16Z",
                 "owner": "NVlabs",
                 "repo": "Sana",
-                "stars": 8816
+                "stars": 8820
               }
             }
           ],
@@ -536,7 +536,7 @@
                 "last_commit": "2019-12-25T18:40:00Z",
                 "owner": "KupynOrest",
                 "repo": "DeblurGAN",
-                "stars": 2639
+                "stars": 2638
               }
             }
           ],
@@ -617,7 +617,7 @@
                 "last_commit": "2025-06-22T02:41:21Z",
                 "owner": "Rudrabha",
                 "repo": "Wav2Lip",
-                "stars": 13178
+                "stars": 13180
               }
             }
           ],
@@ -661,7 +661,7 @@
                 "last_commit": "2021-06-06T12:09:47Z",
                 "owner": "phillipi",
                 "repo": "pix2pix",
-                "stars": 10653
+                "stars": 10652
               }
             },
             {
@@ -706,7 +706,7 @@
                 "last_commit": "2021-01-23T15:09:58Z",
                 "owner": "yunjey",
                 "repo": "stargan",
-                "stars": 5295
+                "stars": 5296
               }
             },
             {
@@ -721,7 +721,7 @@
                 "last_commit": "2023-04-27T00:58:48Z",
                 "owner": "clovaai",
                 "repo": "stargan-v2",
-                "stars": 3616
+                "stars": 3617
               }
             },
             {
@@ -848,7 +848,7 @@
                 "last_commit": "2025-02-05T08:41:52Z",
                 "owner": "advimman",
                 "repo": "lama",
-                "stars": 10214
+                "stars": 10216
               }
             }
           ],
@@ -937,7 +937,7 @@
                 "last_commit": "2022-10-19T02:33:55Z",
                 "owner": "xinntao",
                 "repo": "ESRGAN",
-                "stars": 6569
+                "stars": 6568
               }
             },
             {
@@ -952,7 +952,7 @@
                 "last_commit": "2024-08-06T13:15:18Z",
                 "owner": "xinntao",
                 "repo": "Real-ESRGAN",
-                "stars": 36578
+                "stars": 36590
               }
             }
           ],
@@ -1056,7 +1056,7 @@
                 "last_commit": "2022-12-07T23:36:39Z",
                 "owner": "imatge-upc",
                 "repo": "salgan",
-                "stars": 380
+                "stars": 379
               }
             }
           ],
@@ -1130,7 +1130,7 @@
                 "last_commit": "2024-07-27T20:56:30Z",
                 "owner": "jik876",
                 "repo": "hifi-gan",
-                "stars": 2366
+                "stars": 2367
               }
             },
             {
@@ -1160,7 +1160,7 @@
                 "last_commit": "2024-08-07T11:07:23Z",
                 "owner": "gemelo-ai",
                 "repo": "vocos",
-                "stars": 1151
+                "stars": 1152
               }
             },
             {
@@ -1378,7 +1378,7 @@
                 "last_commit": "2024-07-26T18:44:02Z",
                 "owner": "TencentARC",
                 "repo": "GFPGAN",
-                "stars": 37658
+                "stars": 37659
               }
             },
             {
@@ -1415,7 +1415,7 @@
                 "last_commit": "2025-08-06T17:58:38Z",
                 "owner": "junyanz",
                 "repo": "pytorch-CycleGAN-and-pix2pix",
-                "stars": 25228
+                "stars": 25232
               }
             },
             {
@@ -1561,7 +1561,7 @@
             "last_commit": "2024-06-18T07:08:31Z",
             "owner": "eriklindernoren",
             "repo": "PyTorch-GAN",
-            "stars": 17446
+            "stars": 17445
           }
         },
         {
@@ -1599,7 +1599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:49:29.886Z",
+    "last_updated": "2026-08-26T02:58:26.123Z",
     "original_repository": "nashory/gans-awesome-applications",
     "original_repository_id": 106639043,
     "original_repository_sha": "4e090dc831b5b48a573ea7f08707f064429d3b14",
