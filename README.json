@@ -165,7 +165,7 @@
                 "last_commit": "2024-08-27T04:44:47Z",
                 "owner": "TachibanaYoshino",
                 "repo": "AnimeGANv2",
-                "stars": 5371
+                "stars": 5372
               }
             }
           ],
@@ -239,7 +239,7 @@
                 "last_commit": "2024-05-18T17:51:40Z",
                 "owner": "XingangPan",
                 "repo": "DragGAN",
-                "stars": 35757
+                "stars": 35755
               }
             }
           ],
@@ -276,7 +276,7 @@
                 "last_commit": "2022-10-01T11:23:39Z",
                 "owner": "eladrich",
                 "repo": "pixel2style2pixel",
-                "stars": 3349
+                "stars": 3350
               }
             }
           ],
@@ -407,10 +407,10 @@
                 "archived": false,
                 "id": 871368615,
                 "language": "Python",
-                "last_commit": "2026-08-23T10:12:16Z",
+                "last_commit": "2026-08-27T09:12:35Z",
                 "owner": "NVlabs",
                 "repo": "Sana",
-                "stars": 8820
+                "stars": 8851
               }
             }
           ],
@@ -617,7 +617,7 @@
                 "last_commit": "2025-06-22T02:41:21Z",
                 "owner": "Rudrabha",
                 "repo": "Wav2Lip",
-                "stars": 13180
+                "stars": 13182
               }
             }
           ],
@@ -848,7 +848,7 @@
                 "last_commit": "2025-02-05T08:41:52Z",
                 "owner": "advimman",
                 "repo": "lama",
-                "stars": 10216
+                "stars": 10221
               }
             }
           ],
@@ -892,7 +892,7 @@
                 "last_commit": "2017-08-16T10:48:45Z",
                 "owner": "david-gpu",
                 "repo": "srez",
-                "stars": 5270
+                "stars": 5269
               }
             },
             {
@@ -952,7 +952,7 @@
                 "last_commit": "2024-08-06T13:15:18Z",
                 "owner": "xinntao",
                 "repo": "Real-ESRGAN",
-                "stars": 36590
+                "stars": 36602
               }
             }
           ],
@@ -1157,10 +1157,10 @@
                 "archived": false,
                 "id": 648152119,
                 "language": "Python",
-                "last_commit": "2024-08-07T11:07:23Z",
+                "last_commit": "2026-08-26T22:27:52Z",
                 "owner": "gemelo-ai",
                 "repo": "vocos",
-                "stars": 1152
+                "stars": 1154
               }
             },
             {
@@ -1378,7 +1378,7 @@
                 "last_commit": "2024-07-26T18:44:02Z",
                 "owner": "TencentARC",
                 "repo": "GFPGAN",
-                "stars": 37659
+                "stars": 37660
               }
             },
             {
@@ -1393,7 +1393,7 @@
                 "last_commit": "2024-10-19T17:17:35Z",
                 "owner": "jantic",
                 "repo": "DeOldify",
-                "stars": 18483
+                "stars": 18481
               }
             }
           ],
@@ -1415,7 +1415,7 @@
                 "last_commit": "2025-08-06T17:58:38Z",
                 "owner": "junyanz",
                 "repo": "pytorch-CycleGAN-and-pix2pix",
-                "stars": 25232
+                "stars": 25234
               }
             },
             {
@@ -1430,7 +1430,7 @@
                 "last_commit": "2024-04-10T08:30:29Z",
                 "owner": "NVlabs",
                 "repo": "stylegan",
-                "stars": 14416
+                "stars": 14415
               }
             },
             {
@@ -1561,7 +1561,7 @@
             "last_commit": "2024-06-18T07:08:31Z",
             "owner": "eriklindernoren",
             "repo": "PyTorch-GAN",
-            "stars": 17445
+            "stars": 17447
           }
         },
         {
@@ -1599,9 +1599,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:58:26.123Z",
-    "original_repository": "nashory/gans-awesome-applications",
-    "original_repository_id": 106639043,
+    "last_updated": "2026-08-27T12:14:01.466Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 106639043,
+      "language": null,
+      "last_commit": "2026-06-08T10:40:14Z",
+      "owner": "nashory",
+      "repo": "gans-awesome-applications",
+      "stars": 5102
+    },
     "original_repository_sha": "4e090dc831b5b48a573ea7f08707f064429d3b14",
     "enhanced_repository": "enhansome/gans-enhansome-applications",
     "enhanced_repository_description": null,
