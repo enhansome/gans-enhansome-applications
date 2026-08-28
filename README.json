@@ -16,7 +16,8 @@
             "owner": "goodfeli",
             "repo": "adversarial",
             "stars": 4078
-          }
+          },
+          "first_seen": "2026-08-28T13:38:14.127Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "soumith",
             "repo": "dcgan.torch",
             "stars": 1488
-          }
+          },
+          "first_seen": "2026-08-28T13:38:14.127Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "openai",
             "repo": "improved-gan",
             "stars": 2333
-          }
+          },
+          "first_seen": "2026-08-28T13:38:14.127Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "carpedm20",
             "repo": "BEGAN-tensorflow",
             "stars": 924
-          }
+          },
+          "first_seen": "2026-08-28T13:38:14.127Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "NVlabs",
             "repo": "stylegan2-ada-pytorch",
             "stars": 4487
-          }
+          },
+          "first_seen": "2026-08-28T13:38:14.127Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "brownvc",
             "repo": "R3GAN",
             "stars": 870
-          }
+          },
+          "first_seen": "2026-08-28T13:38:14.127Z"
         }
       ],
       "title": "🏛 The landmark papers that I respect"
@@ -114,7 +120,8 @@
                 "owner": "kaonashi-tyc",
                 "repo": "zi2zi",
                 "stars": 2745
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -129,7 +136,8 @@
                 "owner": "ueoo",
                 "repo": "AGIS-Net",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -144,7 +152,8 @@
                 "owner": "ueoo",
                 "repo": "Attr2Font",
                 "stars": 232
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             }
           ],
           "description": "↑ back to Contents",
@@ -165,8 +174,9 @@
                 "last_commit": "2024-08-27T04:44:47Z",
                 "owner": "TachibanaYoshino",
                 "repo": "AnimeGANv2",
-                "stars": 5372
-              }
+                "stars": 5373
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             }
           ],
           "description": "↑ back to Contents",
@@ -188,7 +198,8 @@
                 "owner": "mchong6",
                 "repo": "JoJoGAN",
                 "stars": 1438
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             }
           ],
           "description": "↑ back to Contents",
@@ -209,8 +220,9 @@
                 "last_commit": "2020-08-05T01:05:44Z",
                 "owner": "junyanz",
                 "repo": "iGAN",
-                "stars": 4005
-              }
+                "stars": 4006
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -225,7 +237,8 @@
                 "owner": "ajbrock",
                 "repo": "Neural-Photo-Editor",
                 "stars": 2074
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -239,8 +252,9 @@
                 "last_commit": "2024-05-18T17:51:40Z",
                 "owner": "XingangPan",
                 "repo": "DragGAN",
-                "stars": 35755
-              }
+                "stars": 35751
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             }
           ],
           "description": "↑ back to Contents",
@@ -262,7 +276,8 @@
                 "owner": "orpatashnik",
                 "repo": "StyleCLIP",
                 "stars": 4121
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -277,7 +292,8 @@
                 "owner": "eladrich",
                 "repo": "pixel2style2pixel",
                 "stars": 3350
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             }
           ],
           "description": "↑ back to Contents",
@@ -299,7 +315,8 @@
                 "owner": "dashayushman",
                 "repo": "TAC-GAN",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -314,7 +331,8 @@
                 "owner": "hanzhanggit",
                 "repo": "StackGAN",
                 "stars": 1860
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -329,7 +347,8 @@
                 "owner": "paarthneekhara",
                 "repo": "text-to-image",
                 "stars": 2163
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -344,7 +363,8 @@
                 "owner": "reedscot",
                 "repo": "nips2016",
                 "stars": 335
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -359,7 +379,8 @@
                 "owner": "taoxugit",
                 "repo": "AttnGAN",
                 "stars": 1363
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -374,7 +395,8 @@
                 "owner": "autonomousvision",
                 "repo": "stylegan-t",
                 "stars": 1197
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             }
           ],
           "description": "↑ back to Contents",
@@ -396,7 +418,8 @@
                 "owner": "tianweiy",
                 "repo": "DMD2",
                 "stars": 1438
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -410,8 +433,9 @@
                 "last_commit": "2026-08-27T09:12:35Z",
                 "owner": "NVlabs",
                 "repo": "Sana",
-                "stars": 8851
-              }
+                "stars": 8870
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             }
           ],
           "description": "GANs strike back in 2024–2026: adversarial objectives distill slow diffusion samplers into one/few-step image and video generators — where GANs are most alive in 2025–2026.\n↑ back to Contents",
@@ -433,7 +457,8 @@
                 "owner": "maxorange",
                 "repo": "pix2vox",
                 "stars": 246
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -448,7 +473,8 @@
                 "owner": "zck119",
                 "repo": "3dgan-release",
                 "stars": 825
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -463,7 +489,8 @@
                 "owner": "yunishi3",
                 "repo": "3D-FCR-alphaGAN",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             }
           ],
           "description": "↑ back to Contents",
@@ -485,7 +512,8 @@
                 "owner": "NVlabs",
                 "repo": "eg3d",
                 "stars": 3338
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             }
           ],
           "description": "↑ back to Contents",
@@ -507,7 +535,8 @@
                 "owner": "Guim3",
                 "repo": "IcGAN",
                 "stars": 284
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -522,7 +551,8 @@
                 "owner": "hezhangsprinter",
                 "repo": "ID-CGAN",
                 "stars": 266
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -536,8 +566,9 @@
                 "last_commit": "2019-12-25T18:40:00Z",
                 "owner": "KupynOrest",
                 "repo": "DeblurGAN",
-                "stars": 2638
-              }
+                "stars": 2639
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             }
           ],
           "description": "↑ back to Contents",
@@ -559,7 +590,8 @@
                 "owner": "ZZUTK",
                 "repo": "Face-Aging-CAAE",
                 "stars": 657
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             }
           ],
           "description": "↑ back to Contents",
@@ -581,7 +613,8 @@
                 "owner": "NVlabs",
                 "repo": "DG-Net",
                 "stars": 1298
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             }
           ],
           "description": "↑ back to Contents",
@@ -602,8 +635,9 @@
                 "last_commit": "2024-11-14T03:16:41Z",
                 "owner": "AliaksandrSiarohin",
                 "repo": "first-order-model",
-                "stars": 15015
-              }
+                "stars": 15016
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -617,8 +651,9 @@
                 "last_commit": "2025-06-22T02:41:21Z",
                 "owner": "Rudrabha",
                 "repo": "Wav2Lip",
-                "stars": 13182
-              }
+                "stars": 13184
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             }
           ],
           "description": "↑ back to Contents",
@@ -640,7 +675,8 @@
                 "owner": "shadow2496",
                 "repo": "VITON-HD",
                 "stars": 1161
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             }
           ],
           "description": "↑ back to Contents",
@@ -662,7 +698,8 @@
                 "owner": "phillipi",
                 "repo": "pix2pix",
                 "stars": 10652
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -677,7 +714,8 @@
                 "owner": "junyanz",
                 "repo": "CycleGAN",
                 "stars": 12870
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -692,7 +730,8 @@
                 "owner": "carpedm20",
                 "repo": "DiscoGAN-pytorch",
                 "stars": 1095
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -707,7 +746,8 @@
                 "owner": "yunjey",
                 "repo": "stargan",
                 "stars": 5296
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -721,8 +761,9 @@
                 "last_commit": "2023-04-27T00:58:48Z",
                 "owner": "clovaai",
                 "repo": "stargan-v2",
-                "stars": 3617
-              }
+                "stars": 3616
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -737,7 +778,8 @@
                 "owner": "NVlabs",
                 "repo": "MUNIT",
                 "stars": 2707
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -752,7 +794,8 @@
                 "owner": "chuanli11",
                 "repo": "MGANs",
                 "stars": 291
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -767,7 +810,8 @@
                 "owner": "fxia22",
                 "repo": "PixelDTGAN",
                 "stars": 262
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -782,7 +826,8 @@
                 "owner": "luanfujun",
                 "repo": "deep-photo-styletransfer",
                 "stars": 9989
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             }
           ],
           "description": "↑ back to Contents",
@@ -804,7 +849,8 @@
                 "owner": "pathak22",
                 "repo": "context-encoder",
                 "stars": 907
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -819,7 +865,8 @@
                 "owner": "bamos",
                 "repo": "dcgan-completion.tensorflow",
                 "stars": 1316
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -834,7 +881,8 @@
                 "owner": "JiahuiYu",
                 "repo": "generative_inpainting",
                 "stars": 3466
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -848,8 +896,9 @@
                 "last_commit": "2025-02-05T08:41:52Z",
                 "owner": "advimman",
                 "repo": "lama",
-                "stars": 10221
-              }
+                "stars": 10224
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             }
           ],
           "description": "↑ back to Contents",
@@ -871,7 +920,8 @@
                 "owner": "wuhuikai",
                 "repo": "GP-GAN",
                 "stars": 472
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             }
           ],
           "description": "↑ back to Contents",
@@ -893,7 +943,8 @@
                 "owner": "david-gpu",
                 "repo": "srez",
                 "stars": 5269
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -908,7 +959,8 @@
                 "owner": "tensorlayer",
                 "repo": "SRGAN",
                 "stars": 3467
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -923,7 +975,8 @@
                 "owner": "subeeshvasu",
                 "repo": "2018_subeesh_epsr_eccvw",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -938,7 +991,8 @@
                 "owner": "xinntao",
                 "repo": "ESRGAN",
                 "stars": 6568
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -952,8 +1006,9 @@
                 "last_commit": "2024-08-06T13:15:18Z",
                 "owner": "xinntao",
                 "repo": "Real-ESRGAN",
-                "stars": 36602
-              }
+                "stars": 36620
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             }
           ],
           "description": "↑ back to Contents",
@@ -975,7 +1030,8 @@
                 "owner": "hardmaru",
                 "repo": "cppn-gan-vae-tensorflow",
                 "stars": 347
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -990,7 +1046,8 @@
                 "owner": "tkarras",
                 "repo": "progressive_growing_of_gans",
                 "stars": 6179
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -1005,7 +1062,8 @@
                 "owner": "tamarott",
                 "repo": "SinGAN",
                 "stars": 3344
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -1020,7 +1078,8 @@
                 "owner": "NVlabs",
                 "repo": "stylegan2",
                 "stars": 11184
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -1034,8 +1093,9 @@
                 "last_commit": "2023-09-12T17:04:25Z",
                 "owner": "NVlabs",
                 "repo": "stylegan3",
-                "stars": 6943
-              }
+                "stars": 6942
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             }
           ],
           "description": "↑ back to Contents",
@@ -1057,7 +1117,8 @@
                 "owner": "imatge-upc",
                 "repo": "salgan",
                 "stars": 379
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             }
           ],
           "description": "↑ back to Contents",
@@ -1079,7 +1140,8 @@
                 "owner": "dyelax",
                 "repo": "Adversarial_Video_Generation",
                 "stars": 748
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -1093,8 +1155,9 @@
                 "last_commit": "2023-08-17T20:55:56Z",
                 "owner": "thunil",
                 "repo": "TecoGAN",
-                "stars": 6141
-              }
+                "stars": 6142
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             }
           ],
           "description": "↑ back to Contents",
@@ -1116,7 +1179,8 @@
                 "owner": "chrisdonahue",
                 "repo": "wavegan",
                 "stars": 1383
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -1131,7 +1195,8 @@
                 "owner": "jik876",
                 "repo": "hifi-gan",
                 "stars": 2367
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -1146,7 +1211,8 @@
                 "owner": "NVIDIA",
                 "repo": "BigVGAN",
                 "stars": 1227
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -1161,7 +1227,8 @@
                 "owner": "gemelo-ai",
                 "repo": "vocos",
                 "stars": 1154
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -1176,7 +1243,8 @@
                 "owner": "dinhoitt",
                 "repo": "BemaGANv2",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             }
           ],
           "description": "↑ back to Contents",
@@ -1198,7 +1266,8 @@
                 "owner": "LantaoYu",
                 "repo": "SeqGAN",
                 "stars": 2092
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             }
           ],
           "description": "↑ back to Contents",
@@ -1220,7 +1289,8 @@
                 "owner": "carpedm20",
                 "repo": "simulated-unsupervised-tensorflow",
                 "stars": 575
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             }
           ],
           "description": "↑ back to Contents",
@@ -1242,7 +1312,8 @@
                 "owner": "hep-lbdl",
                 "repo": "adversarial-jets",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -1257,7 +1328,8 @@
                 "owner": "minhnhat93",
                 "repo": "tf-SNDCGAN",
                 "stars": 250
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             }
           ],
           "description": "↑ back to Contents",
@@ -1285,7 +1357,8 @@
                 "owner": "waxz",
                 "repo": "MoFA",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             }
           ],
           "description": "↑ back to Contents",
@@ -1307,7 +1380,8 @@
                 "owner": "younesse-cv",
                 "repo": "PatchMatch",
                 "stars": 132
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             }
           ],
           "description": "↑ back to Contents",
@@ -1329,7 +1403,8 @@
                 "owner": "Guanghan",
                 "repo": "GNet-pose",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             }
           ],
           "description": "↑ back to Contents",
@@ -1350,8 +1425,9 @@
                 "last_commit": "2021-07-16T02:33:14Z",
                 "owner": "chrischoy",
                 "repo": "3D-R2N2",
-                "stars": 1410
-              }
+                "stars": 1409
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             }
           ],
           "description": "↑ back to Contents",
@@ -1378,8 +1454,9 @@
                 "last_commit": "2024-07-26T18:44:02Z",
                 "owner": "TencentARC",
                 "repo": "GFPGAN",
-                "stars": 37660
-              }
+                "stars": 37661
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -1394,7 +1471,8 @@
                 "owner": "jantic",
                 "repo": "DeOldify",
                 "stars": 18481
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             }
           ],
           "description": null,
@@ -1416,7 +1494,8 @@
                 "owner": "junyanz",
                 "repo": "pytorch-CycleGAN-and-pix2pix",
                 "stars": 25234
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -1431,7 +1510,8 @@
                 "owner": "NVlabs",
                 "repo": "stylegan",
                 "stars": 14415
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -1446,7 +1526,8 @@
                 "owner": "NVlabs",
                 "repo": "SPADE",
                 "stars": 7717
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -1460,8 +1541,9 @@
                 "last_commit": "2024-11-04T18:13:20Z",
                 "owner": "NVIDIA",
                 "repo": "pix2pixHD",
-                "stars": 6923
-              }
+                "stars": 6924
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             },
             {
               "node_type": "item",
@@ -1476,7 +1558,8 @@
                 "owner": "ajbrock",
                 "repo": "BigGAN-PyTorch",
                 "stars": 2923
-              }
+              },
+              "first_seen": "2026-08-28T13:38:14.127Z"
             }
           ],
           "description": "↑ back to Contents",
@@ -1502,7 +1585,8 @@
             "owner": "nashory",
             "repo": "gans-collection.torch",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T13:38:14.127Z"
         },
         {
           "node_type": "item",
@@ -1517,7 +1601,8 @@
             "owner": "hwalsuklee",
             "repo": "tensorflow-generative-model-collections",
             "stars": 3918
-          }
+          },
+          "first_seen": "2026-08-28T13:38:14.127Z"
         },
         {
           "node_type": "item",
@@ -1532,7 +1617,8 @@
             "owner": "wiseodd",
             "repo": "generative-models",
             "stars": 7494
-          }
+          },
+          "first_seen": "2026-08-28T13:38:14.127Z"
         },
         {
           "node_type": "item",
@@ -1547,7 +1633,8 @@
             "owner": "aboev",
             "repo": "arae-tf",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T13:38:14.127Z"
         },
         {
           "node_type": "item",
@@ -1562,7 +1649,8 @@
             "owner": "eriklindernoren",
             "repo": "PyTorch-GAN",
             "stars": 17447
-          }
+          },
+          "first_seen": "2026-08-28T13:38:14.127Z"
         },
         {
           "node_type": "item",
@@ -1577,7 +1665,8 @@
             "owner": "eriklindernoren",
             "repo": "Keras-GAN",
             "stars": 9204
-          }
+          },
+          "first_seen": "2026-08-28T13:38:14.127Z"
         },
         {
           "node_type": "item",
@@ -1592,14 +1681,15 @@
             "owner": "NVlabs",
             "repo": "imaginaire",
             "stars": 4082
-          }
+          },
+          "first_seen": "2026-08-28T13:38:14.127Z"
         }
       ],
       "title": "🧰 Implementations of various types of GANs collection"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:14:01.466Z",
+    "last_updated": "2026-08-28T13:38:14.127Z",
     "original_repository_info": {
       "archived": false,
       "id": 106639043,
