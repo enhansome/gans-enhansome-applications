@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and hyperparameters for the paper \"Generative Adversarial Networks\"",
+            "homepage": null,
             "id": 20651238,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2020-05-25T03:31:19Z",
+            "open_issues": 7,
             "owner": "goodfeli",
             "repo": "adversarial",
-            "stars": 4078
+            "stars": 4078,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:38:14.127Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A torch implementation of http://arxiv.org/abs/1511.06434",
+            "homepage": null,
             "id": 47232899,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2021-08-02T01:46:39Z",
+            "open_issues": 41,
             "owner": "soumith",
             "repo": "dcgan.torch",
-            "stars": 1488
+            "stars": 1488,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:38:14.127Z"
         },
@@ -42,12 +52,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Code for the paper \"Improved Techniques for Training GANs\"",
+            "homepage": "https://arxiv.org/abs/1606.03498",
             "id": 60708386,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-11-21T23:56:07Z",
+            "open_issues": 39,
             "owner": "openai",
             "repo": "improved-gan",
-            "stars": 2333
+            "stars": 2333,
+            "topics": [
+              "paper"
+            ]
           },
           "first_seen": "2026-08-28T13:38:14.127Z"
         },
@@ -58,12 +75,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tensorflow implementation of \"BEGAN: Boundary Equilibrium Generative Adversarial Networks\"",
+            "homepage": null,
             "id": 87318375,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2018-03-26T15:26:02Z",
+            "open_issues": 34,
             "owner": "carpedm20",
             "repo": "BEGAN-tensorflow",
-            "stars": 924
+            "stars": 924,
+            "topics": [
+              "began",
+              "celeba",
+              "gan",
+              "generative-model",
+              "google",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T13:38:14.127Z"
         },
@@ -74,12 +103,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "StyleGAN2-ADA - Official PyTorch implementation",
+            "homepage": "https://arxiv.org/abs/2006.06676",
             "id": 329045912,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-05-10T18:13:37Z",
+            "open_issues": 201,
             "owner": "NVlabs",
             "repo": "stylegan2-ada-pytorch",
-            "stars": 4487
+            "stars": 4487,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:38:14.127Z"
         },
@@ -90,12 +124,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for NeurIPS 2024 paper - The GAN is dead; long live the GAN! A Modern Baseline GAN - by Huang et al.",
+            "homepage": null,
             "id": 880972521,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-01-23T16:43:10Z",
+            "open_issues": 11,
             "owner": "brownvc",
             "repo": "R3GAN",
-            "stars": 870
+            "stars": 870,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:38:14.127Z"
         }
@@ -114,12 +153,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learning Chinese Character style with conditional GAN",
+                "homepage": "https://kaonashi-tyc.github.io/2017/04/06/zi2zi.html",
                 "id": 82346425,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-08-09T04:02:31Z",
+                "open_issues": 58,
                 "owner": "kaonashi-tyc",
                 "repo": "zi2zi",
-                "stars": 2745
+                "stars": 2745,
+                "topics": [
+                  "chinese-characters",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "deeplearning",
+                  "generative-adversarial-networks",
+                  "machine-learning",
+                  "pix2pix",
+                  "style-transfer",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -130,12 +184,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[SIGGRAPH Asia 2019] Artistic Glyph Image Synthesis via One-Stage Few-Shot Learning",
+                "homepage": "https://hologerry.github.io/AGIS-Net/",
                 "id": 205121294,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-02-01T19:10:42Z",
+                "open_issues": 0,
                 "owner": "ueoo",
                 "repo": "AGIS-Net",
-                "stars": 130
+                "stars": 130,
+                "topics": [
+                  "font",
+                  "gans",
+                  "glyphs",
+                  "image-to-image-translation",
+                  "style-transfer"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -146,12 +211,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[SIGGRAPH 2020] Attribute2Font: Creating Fonts You Want From Attributes",
+                "homepage": "https://hologerry.github.io/Attr2Font/",
                 "id": 258786045,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-04-26T09:53:28Z",
+                "open_issues": 6,
                 "owner": "ueoo",
                 "repo": "Attr2Font",
-                "stars": 232
+                "stars": 232,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             }
@@ -169,12 +239,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[Open Source].  The improved version of AnimeGAN. Landscape photos/videos to anime",
+                "homepage": null,
                 "id": 285840886,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-08-27T04:44:47Z",
+                "open_issues": 51,
                 "owner": "TachibanaYoshino",
                 "repo": "AnimeGANv2",
-                "stars": 5373
+                "stars": 5373,
+                "topics": [
+                  "animegan",
+                  "animeganv2",
+                  "tensorflow-gpu"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             }
@@ -192,12 +271,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch repo for JoJoGAN: One Shot Face Stylization",
+                "homepage": null,
                 "id": 439414271,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-09-29T18:53:09Z",
+                "open_issues": 18,
                 "owner": "mchong6",
                 "repo": "JoJoGAN",
-                "stars": 1438
+                "stars": 1438,
+                "topics": [
+                  "anime",
+                  "gans",
+                  "image-translation"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             }
@@ -215,12 +303,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interactive Image Generation via Generative Adversarial Networks",
+                "homepage": null,
                 "id": 68788179,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-08-05T01:05:44Z",
+                "open_issues": 14,
                 "owner": "junyanz",
                 "repo": "iGAN",
-                "stars": 4006
+                "stars": 4006,
+                "topics": [
+                  "computer-graphics",
+                  "computer-vision",
+                  "dcgan",
+                  "deep-learning",
+                  "gan",
+                  "generative-adversarial-network",
+                  "image-manipulation",
+                  "pix2pix"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -231,12 +333,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple interface for editing natural photos with generative neural networks.",
+                "homepage": null,
                 "id": 68827685,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-03-22T11:38:44Z",
+                "open_issues": 10,
                 "owner": "ajbrock",
                 "repo": "Neural-Photo-Editor",
-                "stars": 2074
+                "stars": 2074,
+                "topics": [
+                  "computer-vision",
+                  "convolutional-neural-networks",
+                  "deep-learning",
+                  "gans",
+                  "interfaces",
+                  "machine-learning"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -247,12 +361,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Code for DragGAN (SIGGRAPH 2023)",
+                "homepage": "https://vcai.mpi-inf.mpg.de/projects/DragGAN/",
                 "id": 642323624,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-18T17:51:40Z",
+                "open_issues": 154,
                 "owner": "XingangPan",
                 "repo": "DragGAN",
-                "stars": 35751
+                "stars": 35752,
+                "topics": [
+                  "artificial-intelligence",
+                  "generative-adversarial-network",
+                  "generative-models",
+                  "image-manipulation"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             }
@@ -270,12 +394,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Implementation for \"StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery\" (ICCV 2021 Oral)",
+                "homepage": null,
                 "id": 338780080,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2023-05-30T19:57:17Z",
+                "open_issues": 64,
                 "owner": "orpatashnik",
                 "repo": "StyleCLIP",
-                "stars": 4121
+                "stars": 4121,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -286,12 +415,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Implementation for \"Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation\" (CVPR 2021) presenting the pixel2style2pixel (pSp) framework",
+                "homepage": "https://eladrich.github.io/pixel2style2pixel/",
                 "id": 300247371,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-10-01T11:23:39Z",
+                "open_issues": 11,
                 "owner": "eladrich",
                 "repo": "pixel2style2pixel",
-                "stars": 3350
+                "stars": 3350,
+                "topics": [
+                  "cvpr2021",
+                  "generative-adversarial-network",
+                  "image-translation",
+                  "pixel2style2pixel",
+                  "psp-framework",
+                  "psp-model",
+                  "stylegan",
+                  "stylegan-encoder"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             }
@@ -309,12 +452,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Tensorflow implementation of the Text Conditioned Auxiliary Classifier Generative Adversarial Network for Generating Images from text descriptions (https://arxiv.org/abs/1703.06412)",
+                "homepage": null,
                 "id": 92270845,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2019-04-26T21:31:10Z",
+                "open_issues": 11,
                 "owner": "dashayushman",
                 "repo": "TAC-GAN",
-                "stars": 105
+                "stars": 105,
+                "topics": [
+                  "generative-adversarial-network",
+                  "generative-models",
+                  "noise-contrastive-estimation"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -325,12 +477,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 77115049,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-05-15T19:05:57Z",
+                "open_issues": 55,
                 "owner": "hanzhanggit",
                 "repo": "StackGAN",
-                "stars": 1860
+                "stars": 1860,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -341,12 +498,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Text to image synthesis using thought vectors",
+                "homepage": null,
                 "id": 65850354,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-01-30T16:29:57Z",
+                "open_issues": 47,
                 "owner": "paarthneekhara",
                 "repo": "text-to-image",
-                "stars": 2163
+                "stars": 2163,
+                "topics": [
+                  "deep-learning",
+                  "generative-adversarial-network",
+                  "skip-thought-vectors",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -357,12 +524,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learning What and Where to Draw",
+                "homepage": "http://www.scottreed.info/files/nips2016.pdf",
                 "id": 70289321,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2016-11-01T01:55:44Z",
+                "open_issues": 4,
                 "owner": "reedscot",
                 "repo": "nips2016",
-                "stars": 335
+                "stars": 335,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -373,12 +545,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 122099710,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-25T04:54:47Z",
+                "open_issues": 86,
                 "owner": "taoxugit",
                 "repo": "AttnGAN",
-                "stars": 1363
+                "stars": 1363,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -389,12 +566,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML'23] StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis",
+                "homepage": null,
                 "id": 591370247,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-07T08:58:50Z",
+                "open_issues": 14,
                 "owner": "autonomousvision",
                 "repo": "stylegan-t",
-                "stars": 1197
+                "stars": 1197,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             }
@@ -412,12 +594,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(NeurIPS 2024 Oral 🔥) Improved Distribution Matching Distillation for Fast Image Synthesis",
+                "homepage": null,
                 "id": 805164005,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-05T06:04:36Z",
+                "open_issues": 42,
                 "owner": "tianweiy",
                 "repo": "DMD2",
-                "stars": 1438
+                "stars": 1439,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -428,12 +615,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
+                "homepage": "https://nvlabs.github.io/Sana/docs/",
                 "id": 871368615,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T09:12:35Z",
+                "open_issues": 137,
                 "owner": "NVlabs",
                 "repo": "Sana",
-                "stars": 8870
+                "stars": 8880,
+                "topics": [
+                  "diffusion",
+                  "dit",
+                  "linear-transformer",
+                  "nvfp4",
+                  "pytorch",
+                  "reinforcement-learning",
+                  "sana",
+                  "streaming-video",
+                  "system-algorithm-deisgn",
+                  "text-to-image-generation",
+                  "text-to-video",
+                  "transformers",
+                  "video-generation",
+                  "world-models"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             }
@@ -451,12 +658,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sketch-Based 3D Exploration with Stacked Generative Adversarial Networks",
+                "homepage": null,
                 "id": 89796720,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2018-03-19T08:19:12Z",
+                "open_issues": 10,
                 "owner": "maxorange",
                 "repo": "pix2vox",
-                "stars": 246
+                "stars": 246,
+                "topics": [
+                  "gan",
+                  "pix2vox",
+                  "sketch",
+                  "voxel"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -467,12 +684,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "3D Generative Adversarial Network",
+                "homepage": "http://3dgan.csail.mit.edu",
                 "id": 76320688,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-10-21T20:53:38Z",
+                "open_issues": 3,
                 "owner": "zck119",
                 "repo": "3dgan-release",
-                "stars": 825
+                "stars": 825,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -483,12 +705,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fully Convolutional Refined Auto Encoding Generative Adversarial Networks for 3D Multi Object Scenes",
+                "homepage": null,
                 "id": 101454107,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-01-17T14:45:10Z",
+                "open_issues": 2,
                 "owner": "yunishi3",
                 "repo": "3D-FCR-alphaGAN",
-                "stars": 104
+                "stars": 104,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             }
@@ -506,12 +733,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 438565846,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-06-10T19:59:28Z",
+                "open_issues": 66,
                 "owner": "NVlabs",
                 "repo": "eg3d",
-                "stars": 3338
+                "stars": 3338,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             }
@@ -529,12 +761,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Invertible conditional GANs for image editing",
+                "homepage": null,
                 "id": 58887547,
                 "language": "Lua",
+                "license": "NOASSERTION",
                 "last_commit": "2021-09-28T08:25:26Z",
+                "open_issues": 2,
                 "owner": "Guim3",
                 "repo": "IcGAN",
-                "stars": 284
+                "stars": 284,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -545,12 +782,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Image De-raining Using a Conditional Generative Adversarial Network",
+                "homepage": "http://www.rci.rutgers.edu/~vmp93/index_ImageDeRaining.html",
                 "id": 79967049,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2022-11-20T20:24:25Z",
+                "open_issues": 10,
                 "owner": "hezhangsprinter",
                 "repo": "ID-CGAN",
-                "stars": 266
+                "stars": 266,
+                "topics": [
+                  "deep-learning",
+                  "gan",
+                  "id-cgan",
+                  "rain-removal"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -561,12 +808,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Image Deblurring using Generative Adversarial Networks",
+                "homepage": null,
                 "id": 89488284,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2019-12-25T18:40:00Z",
+                "open_issues": 148,
                 "owner": "KupynOrest",
                 "repo": "DeblurGAN",
-                "stars": 2639
+                "stars": 2639,
+                "topics": [
+                  "blurry-images",
+                  "computer-vision",
+                  "convolutional-networks",
+                  "convolutional-neural-networks",
+                  "deblurring",
+                  "deep-learning",
+                  "gan",
+                  "image-manipulation",
+                  "image-processing",
+                  "image-to-image-translation",
+                  "neural-network",
+                  "paper",
+                  "pix2pix",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             }
@@ -584,12 +851,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Age Progression/Regression by Conditional Adversarial Autoencoder",
+                "homepage": null,
                 "id": 85919055,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-05-08T17:45:46Z",
+                "open_issues": 36,
                 "owner": "ZZUTK",
                 "repo": "Face-Aging-CAAE",
-                "stars": 657
+                "stars": 657,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             }
@@ -607,12 +879,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":couple: Joint Discriminative and Generative Learning for Person Re-identification. CVPR'19 (Oral) :couple:",
+                "homepage": "https://www.zdzheng.xyz/publication/Joint-di2019",
                 "id": 194320424,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-07-09T10:24:47Z",
+                "open_issues": 45,
                 "owner": "NVlabs",
                 "repo": "DG-Net",
-                "stars": 1298
+                "stars": 1298,
+                "topics": [
+                  "apex",
+                  "cuhk-np",
+                  "dg-net",
+                  "dukemtmc-reid",
+                  "image-retrieval",
+                  "image-search",
+                  "market-1501",
+                  "msmt17",
+                  "open-reid",
+                  "person-reid",
+                  "person-reidentification",
+                  "pytorch",
+                  "re-identification"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             }
@@ -630,12 +921,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains the source code for the paper First Order Motion Model for Image Animation ",
+                "homepage": "https://aliaksandrsiarohin.github.io/first-order-model-website/",
                 "id": 227272405,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-11-14T03:16:41Z",
+                "open_issues": 318,
                 "owner": "AliaksandrSiarohin",
                 "repo": "first-order-model",
-                "stars": 15016
+                "stars": 15016,
+                "topics": [
+                  "deep-learning",
+                  "generative-model",
+                  "image-animation",
+                  "motion-retargeting"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -646,12 +947,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains the codes of \"A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild\", published at ACM Multimedia 2020. For HD commercial model, please try out Sync Labs ",
+                "homepage": "https://sync.so",
                 "id": 285774113,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-06-22T02:41:21Z",
+                "open_issues": 370,
                 "owner": "Rudrabha",
                 "repo": "Wav2Lip",
-                "stars": 13184
+                "stars": 13184,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             }
@@ -669,12 +975,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of \"VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization\" (CVPR 2021)",
+                "homepage": "https://psh01087.github.io/VITON-HD",
                 "id": 353640853,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-04-27T14:52:13Z",
+                "open_issues": 0,
                 "owner": "shadow2496",
                 "repo": "VITON-HD",
-                "stars": 1161
+                "stars": 1161,
+                "topics": [
+                  "clothing-agnostic-representation",
+                  "deep-learning",
+                  "image-generation",
+                  "normalization",
+                  "virtual-try-on",
+                  "viton"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             }
@@ -692,12 +1010,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Image-to-image translation with conditional adversarial nets",
+                "homepage": "https://phillipi.github.io/pix2pix/",
                 "id": 73968389,
                 "language": "Lua",
+                "license": "NOASSERTION",
                 "last_commit": "2021-06-06T12:09:47Z",
+                "open_issues": 92,
                 "owner": "phillipi",
                 "repo": "pix2pix",
-                "stars": 10652
+                "stars": 10652,
+                "topics": [
+                  "computer-graphics",
+                  "computer-vision",
+                  "dcgan",
+                  "deep-learning",
+                  "gan",
+                  "generative-adversarial-network",
+                  "image-generation",
+                  "image-manipulation",
+                  "image-to-image-translation",
+                  "pix2pix"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -708,12 +1042,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more.",
+                "homepage": null,
                 "id": 86721514,
                 "language": "Lua",
+                "license": "NOASSERTION",
                 "last_commit": "2023-09-12T19:48:53Z",
+                "open_issues": 59,
                 "owner": "junyanz",
                 "repo": "CycleGAN",
-                "stars": 12870
+                "stars": 12870,
+                "topics": [
+                  "computer-graphics",
+                  "computer-vision",
+                  "cyclegan",
+                  "deep-learning",
+                  "gan",
+                  "gans",
+                  "generative-adversarial-network",
+                  "image-generation",
+                  "image-manipulation",
+                  "pix2pix",
+                  "torch"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -724,12 +1075,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of \"Learning to Discover Cross-Domain Relations with Generative Adversarial Networks\"",
+                "homepage": null,
                 "id": 85299452,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2018-03-26T15:26:18Z",
+                "open_issues": 13,
                 "owner": "carpedm20",
                 "repo": "DiscoGAN-pytorch",
-                "stars": 1095
+                "stars": 1095,
+                "topics": [
+                  "gan",
+                  "generative-model",
+                  "pytorch",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -740,12 +1101,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "StarGAN - Official PyTorch Implementation (CVPR 2018)",
+                "homepage": null,
                 "id": 112133243,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-01-23T15:09:58Z",
+                "open_issues": 67,
                 "owner": "yunjey",
                 "repo": "stargan",
-                "stars": 5296
+                "stars": 5296,
+                "topics": [
+                  "cvpr2018",
+                  "generative-models",
+                  "image-to-image-translation",
+                  "pytorch",
+                  "stargan"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -756,12 +1128,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "StarGAN v2 - Official PyTorch Implementation (CVPR 2020)",
+                "homepage": null,
                 "id": 225813090,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-27T00:58:48Z",
+                "open_issues": 115,
                 "owner": "clovaai",
                 "repo": "stargan-v2",
-                "stars": 3616
+                "stars": 3616,
+                "topics": [
+                  "cvpr2020",
+                  "generative-models",
+                  "image-to-image-translation",
+                  "pytorch",
+                  "stargan-v2"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -772,12 +1155,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multimodal Unsupervised Image-to-Image Translation",
+                "homepage": null,
                 "id": 127476512,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-09-20T12:23:52Z",
+                "open_issues": 66,
                 "owner": "NVlabs",
                 "repo": "MUNIT",
-                "stars": 2707
+                "stars": 2707,
+                "topics": [
+                  "deep-learning",
+                  "gan",
+                  "image-translation",
+                  "munit",
+                  "pix2pix"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -788,12 +1182,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks",
+                "homepage": null,
                 "id": 55839597,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2019-10-12T20:14:06Z",
+                "open_issues": 7,
                 "owner": "chuanli11",
                 "repo": "MGANs",
-                "stars": 291
+                "stars": 291,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -804,12 +1203,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A torch implementation of \"Pixel-Level Domain Transfer\" ",
+                "homepage": "http://arxiv.org/abs/1603.07442",
                 "id": 63136727,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2017-11-01T18:35:08Z",
+                "open_issues": 0,
                 "owner": "fxia22",
                 "repo": "PixelDTGAN",
-                "stars": 262
+                "stars": 262,
+                "topics": [
+                  "domain-transfer",
+                  "gan",
+                  "torch"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -820,12 +1228,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and data for paper \"Deep Photo Style Transfer\": https://arxiv.org/abs/1703.07511 ",
+                "homepage": null,
                 "id": 85786010,
                 "language": "Matlab",
+                "license": null,
                 "last_commit": "2021-08-02T01:07:44Z",
+                "open_issues": 34,
                 "owner": "luanfujun",
                 "repo": "deep-photo-styletransfer",
-                "stars": 9989
+                "stars": 9989,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             }
@@ -843,12 +1256,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2016] Unsupervised Feature Learning by Image Inpainting using GANs",
+                "homepage": "https://www.cs.cmu.edu/~dpathak/context_encoder/",
                 "id": 56881233,
                 "language": "Lua",
+                "license": "NOASSERTION",
                 "last_commit": "2020-07-19T21:37:48Z",
+                "open_issues": 117,
                 "owner": "pathak22",
                 "repo": "context-encoder",
-                "stars": 907
+                "stars": 907,
+                "topics": [
+                  "computer-graphics",
+                  "computer-vision",
+                  "context-encoders",
+                  "dcgan",
+                  "deep-learning",
+                  "gan",
+                  "generative-adversarial-network",
+                  "image-inpainting",
+                  "machine-learning",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -859,12 +1288,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Image Completion with Deep Learning in TensorFlow",
+                "homepage": null,
                 "id": 65300077,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2017-07-18T11:08:45Z",
+                "open_issues": 27,
                 "owner": "bamos",
                 "repo": "dcgan-completion.tensorflow",
-                "stars": 1316
+                "stars": 1316,
+                "topics": [
+                  "deep-learning",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -875,12 +1312,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DeepFill v1/v2 with Contextual Attention and Gated Convolution, CVPR 2018, and ICCV 2019 Oral",
+                "homepage": "http://jiahuiyu.com/deepfill/",
                 "id": 118721409,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-27T08:18:38Z",
+                "open_issues": 76,
                 "owner": "JiahuiYu",
                 "repo": "generative_inpainting",
-                "stars": 3466
+                "stars": 3466,
+                "topics": [
+                  "attention-model",
+                  "deep-neural-networks",
+                  "deepfill",
+                  "generative-adversarial-network",
+                  "image-inpainting",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -891,12 +1340,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022",
+                "homepage": "https://advimman.github.io/lama-project/",
                 "id": 401446691,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-05T08:41:52Z",
+                "open_issues": 125,
                 "owner": "advimman",
                 "repo": "lama",
-                "stars": 10224
+                "stars": 10224,
+                "topics": [
+                  "cnn",
+                  "colab",
+                  "colab-notebook",
+                  "computer-vision",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "fourier",
+                  "fourier-convolutions",
+                  "fourier-transform",
+                  "gan",
+                  "generative-adversarial-network",
+                  "generative-adversarial-networks",
+                  "high-resolution",
+                  "image-inpainting",
+                  "inpainting",
+                  "inpainting-algorithm",
+                  "inpainting-methods",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             }
@@ -914,12 +1387,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Chainer implementation of GP-GAN: Towards Realistic High-Resolution Image Blending (ACMMM 2019, oral)",
+                "homepage": null,
                 "id": 85825693,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-03-27T04:26:33Z",
+                "open_issues": 2,
                 "owner": "wuhuikai",
                 "repo": "GP-GAN",
-                "stars": 472
+                "stars": 472,
+                "topics": [
+                  "artificial-intelligence",
+                  "chainer",
+                  "computer-graphics",
+                  "computer-vision",
+                  "deep-learning",
+                  "gan",
+                  "gp-gan",
+                  "image-blending",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             }
@@ -937,12 +1425,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Image super-resolution through deep learning",
+                "homepage": null,
                 "id": 66682814,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-08-16T10:48:45Z",
+                "open_issues": 5,
                 "owner": "david-gpu",
                 "repo": "srez",
-                "stars": 5269
+                "stars": 5269,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -953,12 +1446,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network",
+                "homepage": "https://github.com/tensorlayer/tensorlayerx",
                 "id": 88890801,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-02-22T02:05:20Z",
+                "open_issues": 153,
                 "owner": "tensorlayer",
                 "repo": "SRGAN",
-                "stars": 3467
+                "stars": 3467,
+                "topics": [
+                  "cnn",
+                  "gan",
+                  "srgan",
+                  "super-resolution",
+                  "tensorflow",
+                  "tensorlayer",
+                  "vgg",
+                  "vgg16",
+                  "vgg19"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -969,12 +1477,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Project page of the paper 'Analyzing Perception-Distortion Tradeoff using Enhanced Perceptual Super-resolution Network' (ECCVW 2018) ",
+                "homepage": null,
                 "id": 148771657,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-07-14T08:12:06Z",
+                "open_issues": 0,
                 "owner": "subeeshvasu",
                 "repo": "2018_subeesh_epsr_eccvw",
-                "stars": 79
+                "stars": 79,
+                "topics": [
+                  "deep-learning",
+                  "epsr",
+                  "pirm-sr",
+                  "pytorch",
+                  "super-resolution"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -985,12 +1504,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ECCV18 Workshops - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution. The training codes are in BasicSR.",
+                "homepage": "https://github.com/xinntao/BasicSR",
                 "id": 146862976,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-19T02:33:55Z",
+                "open_issues": 100,
                 "owner": "xinntao",
                 "repo": "ESRGAN",
-                "stars": 6568
+                "stars": 6568,
+                "topics": [
+                  "esrgan"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -1001,12 +1527,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.",
+                "homepage": null,
                 "id": 387326890,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-08-06T13:15:18Z",
+                "open_issues": 646,
                 "owner": "xinntao",
                 "repo": "Real-ESRGAN",
-                "stars": 36620
+                "stars": 36624,
+                "topics": [
+                  "amine",
+                  "denoise",
+                  "esrgan",
+                  "image-restoration",
+                  "jpeg-compression",
+                  "pytorch",
+                  "real-esrgan",
+                  "super-resolution"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             }
@@ -1024,12 +1564,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Train CPPNs as a Generative Model, using Generative Adversarial Networks and Variational Autoencoder techniques to produce high resolution images.",
+                "homepage": null,
                 "id": 55239156,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-04-08T15:36:14Z",
+                "open_issues": 1,
                 "owner": "hardmaru",
                 "repo": "cppn-gan-vae-tensorflow",
-                "stars": 347
+                "stars": 347,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -1040,12 +1585,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Progressive Growing of GANs for Improved Quality, Stability, and Variation",
+                "homepage": "http://research.nvidia.com/publication/2017-10_Progressive-Growing-of",
                 "id": 108524017,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-02-17T12:44:14Z",
+                "open_issues": 11,
                 "owner": "tkarras",
                 "repo": "progressive_growing_of_gans",
-                "stars": 6179
+                "stars": 6179,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -1056,12 +1606,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official pytorch implementation of the paper: \"SinGAN: Learning a Generative Model from a Single Natural Image\"",
+                "homepage": "https://tamarott.github.io/SinGAN.htm",
                 "id": 202940640,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-05-26T07:19:48Z",
+                "open_issues": 107,
                 "owner": "tamarott",
                 "repo": "SinGAN",
-                "stars": 3344
+                "stars": 3344,
+                "topics": [
+                  "animation",
+                  "arbitrery-sizes",
+                  "gan",
+                  "harmonization",
+                  "image-edit",
+                  "official",
+                  "singan",
+                  "single-image",
+                  "single-image-animation",
+                  "single-image-generation",
+                  "single-image-super-resolution",
+                  "super-resolution"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -1072,12 +1640,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "StyleGAN2 - Official TensorFlow Implementation",
+                "homepage": "http://arxiv.org/abs/1912.04958",
                 "id": 224284178,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-18T15:55:42Z",
+                "open_issues": 25,
                 "owner": "NVlabs",
                 "repo": "stylegan2",
-                "stars": 11184
+                "stars": 11184,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -1088,12 +1661,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of StyleGAN3",
+                "homepage": null,
                 "id": 414545335,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-09-12T17:04:25Z",
+                "open_issues": 192,
                 "owner": "NVlabs",
                 "repo": "stylegan3",
-                "stars": 6942
+                "stars": 6942,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             }
@@ -1111,12 +1689,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SalGAN: Visual Saliency Prediction with Generative Adversarial Networks",
+                "homepage": "https://imatge-upc.github.io/salgan",
                 "id": 76941353,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-12-07T23:36:39Z",
+                "open_issues": 34,
                 "owner": "imatge-upc",
                 "repo": "salgan",
-                "stars": 379
+                "stars": 379,
+                "topics": [
+                  "convolutional-neural-networks",
+                  "deep-learning",
+                  "deeplearning",
+                  "saliency-map",
+                  "visual"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             }
@@ -1134,12 +1723,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A TensorFlow Implementation of \"Deep Multi-Scale Video Prediction Beyond Mean Square Error\" by Mathieu, Couprie & LeCun.",
+                "homepage": null,
                 "id": 65582754,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-10-23T19:38:17Z",
+                "open_issues": 24,
                 "owner": "dyelax",
                 "repo": "Adversarial_Video_Generation",
-                "stars": 748
+                "stars": 748,
+                "topics": [
+                  "adversarial-networks",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "gan",
+                  "generative-adversarial-network",
+                  "video-prediction-models"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -1150,12 +1751,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo contains source code and materials for the TEmporally COherent GAN SIGGRAPH project.",
+                "homepage": null,
                 "id": 174698235,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-08-17T20:55:56Z",
+                "open_issues": 87,
                 "owner": "thunil",
                 "repo": "TecoGAN",
-                "stars": 6142
+                "stars": 6142,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             }
@@ -1173,12 +1779,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WaveGAN: Learn to synthesize raw audio with generative adversarial networks",
+                "homepage": null,
                 "id": 120957530,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-27T22:29:32Z",
+                "open_issues": 52,
                 "owner": "chrisdonahue",
                 "repo": "wavegan",
-                "stars": 1383
+                "stars": 1383,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -1189,12 +1800,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis",
+                "homepage": null,
                 "id": 303981258,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-27T20:56:30Z",
+                "open_issues": 111,
                 "owner": "jik876",
                 "repo": "hifi-gan",
-                "stars": 2367
+                "stars": 2367,
+                "topics": [
+                  "deep-learning",
+                  "gan",
+                  "hifi-gan",
+                  "pytorch",
+                  "speech-synthesis",
+                  "text-to-speech",
+                  "tts",
+                  "vocoder"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -1205,12 +1830,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of BigVGAN (ICLR 2023)",
+                "homepage": "https://bigvgan-demo.github.io/",
                 "id": 500933346,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-09-05T03:50:02Z",
+                "open_issues": 19,
                 "owner": "NVIDIA",
                 "repo": "BigVGAN",
-                "stars": 1227
+                "stars": 1227,
+                "topics": [
+                  "audio-generation",
+                  "audio-synthesis",
+                  "music-synthesis",
+                  "neural-vocoder",
+                  "singing-voice-synthesis",
+                  "speech-synthesis"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -1221,12 +1858,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vocos: Closing the gap between time-domain and Fourier-based neural vocoders for high-quality audio synthesis",
+                "homepage": "https://gemelo-ai.github.io/vocos/",
                 "id": 648152119,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T22:27:52Z",
+                "open_issues": 48,
                 "owner": "gemelo-ai",
                 "repo": "vocos",
-                "stars": 1154
+                "stars": 1154,
+                "topics": [
+                  "vocoder",
+                  "vocos"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -1237,12 +1882,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 828772678,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-03T12:41:32Z",
+                "open_issues": 3,
                 "owner": "dinhoitt",
                 "repo": "BemaGANv2",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             }
@@ -1260,12 +1910,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of Sequence Generative Adversarial Nets with Policy Gradient",
+                "homepage": null,
                 "id": 68514142,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-03-10T15:29:18Z",
+                "open_issues": 34,
                 "owner": "LantaoYu",
                 "repo": "SeqGAN",
-                "stars": 2092
+                "stars": 2092,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             }
@@ -1283,12 +1938,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TensorFlow implementation of \"Learning from Simulated and Unsupervised Images through Adversarial Training\"",
+                "homepage": null,
                 "id": 77440857,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-12-10T02:36:54Z",
+                "open_issues": 19,
                 "owner": "carpedm20",
                 "repo": "simulated-unsupervised-tensorflow",
-                "stars": 575
+                "stars": 575,
+                "topics": [
+                  "apple",
+                  "deep-learning",
+                  "generative-model",
+                  "synthetic-images",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             }
@@ -1306,12 +1972,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Training, generation, and analysis code for Learning Particle Physics by Example: Location-Aware Generative Adversarial Networks for Physics ",
+                "homepage": "https://arxiv.org/abs/1701.05927",
                 "id": 74294060,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2017-08-25T18:52:17Z",
+                "open_issues": 0,
                 "owner": "hep-lbdl",
                 "repo": "adversarial-jets",
-                "stars": 61
+                "stars": 61,
+                "topics": [
+                  "cern",
+                  "deep-learning",
+                  "gan",
+                  "generative-adversarial-network",
+                  "hep",
+                  "high-energy-physics",
+                  "machine-learning",
+                  "physics",
+                  "physics-simulation"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -1322,12 +2003,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tensorflow Implementation of the paper \"Spectral Normalization for Generative Adversarial Networks\" (ICML 2017 workshop)",
+                "homepage": null,
                 "id": 103333179,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-09-25T00:55:57Z",
+                "open_issues": 3,
                 "owner": "minhnhat93",
                 "repo": "tf-SNDCGAN",
-                "stars": 250
+                "stars": 250,
+                "topics": [
+                  "deep-learning",
+                  "generative-adversarial-network",
+                  "python",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             }
@@ -1351,12 +2042,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MoFA",
+                "homepage": null,
                 "id": 93322337,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2017-06-05T02:02:06Z",
+                "open_issues": 1,
                 "owner": "waxz",
                 "repo": "MoFA",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             }
@@ -1374,12 +2070,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Randomized Correspondence Algorithm for Structural Image Editing",
+                "homepage": null,
                 "id": 12489481,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2025-05-07T07:55:12Z",
+                "open_issues": 5,
                 "owner": "younesse-cv",
                 "repo": "PatchMatch",
-                "stars": 132
+                "stars": 132,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             }
@@ -1397,12 +2098,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code release of the paper: Knowledge-Guided Deep Fractal Neural Networks for Human Pose Estimation.",
+                "homepage": null,
                 "id": 90662380,
                 "language": "Matlab",
+                "license": "NOASSERTION",
                 "last_commit": "2018-09-27T18:59:50Z",
+                "open_issues": 7,
                 "owner": "Guanghan",
                 "repo": "GNet-pose",
-                "stars": 88
+                "stars": 88,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             }
@@ -1420,12 +2126,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Single/multi view image(s) to voxel reconstruction using a recurrent neural network",
+                "homepage": null,
                 "id": 65103398,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-07-16T02:33:14Z",
+                "open_issues": 44,
                 "owner": "chrischoy",
                 "repo": "3D-R2N2",
-                "stars": 1409
+                "stars": 1409,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             }
@@ -1449,12 +2160,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+                "homepage": null,
                 "id": 349321229,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-26T18:44:02Z",
+                "open_issues": 402,
                 "owner": "TencentARC",
                 "repo": "GFPGAN",
-                "stars": 37661
+                "stars": 37660,
+                "topics": [
+                  "deep-learning",
+                  "face-restoration",
+                  "gan",
+                  "gfpgan",
+                  "image-restoration",
+                  "pytorch",
+                  "super-resolution"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -1465,12 +2189,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Deep Learning based project for colorizing and restoring old images (and video!)",
+                "homepage": null,
                 "id": 155636246,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-19T17:17:35Z",
+                "open_issues": 1,
                 "owner": "jantic",
                 "repo": "DeOldify",
-                "stars": 18481
+                "stars": 18481,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             }
@@ -1488,12 +2217,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Image-to-Image Translation in PyTorch",
+                "homepage": null,
                 "id": 88612945,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-06T17:58:38Z",
+                "open_issues": 589,
                 "owner": "junyanz",
                 "repo": "pytorch-CycleGAN-and-pix2pix",
-                "stars": 25234
+                "stars": 25236,
+                "topics": [
+                  "computer-graphics",
+                  "computer-vision",
+                  "cyclegan",
+                  "deep-learning",
+                  "gan",
+                  "gans",
+                  "generative-adversarial-network",
+                  "image-generation",
+                  "image-manipulation",
+                  "pix2pix",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -1504,12 +2250,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "StyleGAN - Official TensorFlow Implementation",
+                "homepage": "https://arxiv.org/abs/1812.04948",
                 "id": 169100692,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-04-10T08:30:29Z",
+                "open_issues": 12,
                 "owner": "NVlabs",
                 "repo": "stylegan",
-                "stars": 14415
+                "stars": 14415,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -1520,12 +2271,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Semantic Image Synthesis with SPADE",
+                "homepage": "https://nvlabs.github.io/SPADE/",
                 "id": 175539152,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-08-07T10:52:48Z",
+                "open_issues": 100,
                 "owner": "NVlabs",
                 "repo": "SPADE",
-                "stars": 7717
+                "stars": 7717,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -1536,12 +2292,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Synthesizing and manipulating 2048x1024 images with conditional GANs",
+                "homepage": "https://tcwang0509.github.io/pix2pixHD/",
                 "id": 112777740,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-11-04T18:13:20Z",
+                "open_issues": 247,
                 "owner": "NVIDIA",
                 "repo": "pix2pixHD",
-                "stars": 6924
+                "stars": 6924,
+                "topics": [
+                  "computer-graphics",
+                  "computer-vision",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "gan",
+                  "generative-adversarial-network",
+                  "image-to-image-translation",
+                  "pix2pix",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             },
@@ -1552,12 +2323,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The author's officially unofficial PyTorch BigGAN implementation.",
+                "homepage": null,
                 "id": 166696954,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-19T17:08:51Z",
+                "open_issues": 49,
                 "owner": "ajbrock",
                 "repo": "BigGAN-PyTorch",
-                "stars": 2923
+                "stars": 2923,
+                "topics": [
+                  "biggan",
+                  "deep-learning",
+                  "dogball",
+                  "gans",
+                  "neural-networks",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
             }
@@ -1579,12 +2362,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Torch implementation of various types of GAN (e.g. DCGAN, ALI, Context-encoder, DiscoGAN, CycleGAN, EBGAN, LSGAN)",
+            "homepage": null,
             "id": 103339063,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2017-10-14T14:42:00Z",
+            "open_issues": 2,
             "owner": "nashory",
             "repo": "gans-collection.torch",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "adversarial",
+              "ali",
+              "context-encoder",
+              "dcgan",
+              "deep-learning",
+              "gans",
+              "generative-adversarial-network",
+              "torch"
+            ]
           },
           "first_seen": "2026-08-28T13:38:14.127Z"
         },
@@ -1595,12 +2392,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of generative models in Tensorflow",
+            "homepage": null,
             "id": 101303567,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-08-08T09:39:51Z",
+            "open_issues": 24,
             "owner": "hwalsuklee",
             "repo": "tensorflow-generative-model-collections",
-            "stars": 3918
+            "stars": 3918,
+            "topics": [
+              "acgan",
+              "began",
+              "cgan",
+              "cvae",
+              "dragan",
+              "ebgan",
+              "fashion-mnist",
+              "gan",
+              "generative-adversarial-networks",
+              "generative-model",
+              "generative-models",
+              "improved-wgan",
+              "infogan",
+              "lsgan",
+              "mnist",
+              "tensorflow",
+              "vae",
+              "variational-autoencoder",
+              "wgan",
+              "wgan-gp"
+            ]
           },
           "first_seen": "2026-08-28T13:38:14.127Z"
         },
@@ -1611,12 +2434,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.",
+            "homepage": "http://wiseodd.github.io",
             "id": 75829600,
             "language": "Python",
+            "license": "Unlicense",
             "last_commit": "2024-03-24T20:38:46Z",
+            "open_issues": 24,
             "owner": "wiseodd",
             "repo": "generative-models",
-            "stars": 7494
+            "stars": 7494,
+            "topics": [
+              "gan",
+              "generative-model",
+              "machine-learning",
+              "pytorch",
+              "rbm",
+              "restricted-boltzmann-machine",
+              "tensorflow",
+              "vae"
+            ]
           },
           "first_seen": "2026-08-28T13:38:14.127Z"
         },
@@ -1627,12 +2464,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ARAE-Tensorflow for Discrete Sequences (Adversarially Regularized Autoencoder)",
+            "homepage": null,
             "id": 117149990,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-02-04T12:28:34Z",
+            "open_issues": 0,
             "owner": "aboev",
             "repo": "arae-tf",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "arae",
+              "arae-tensorflow",
+              "autoencoder",
+              "gan",
+              "lstm",
+              "seq2seq"
+            ]
           },
           "first_seen": "2026-08-28T13:38:14.127Z"
         },
@@ -1643,12 +2492,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch implementations of Generative Adversarial Networks.",
+            "homepage": null,
             "id": 130474497,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-18T07:08:31Z",
+            "open_issues": 142,
             "owner": "eriklindernoren",
             "repo": "PyTorch-GAN",
-            "stars": 17447
+            "stars": 17447,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:38:14.127Z"
         },
@@ -1659,12 +2513,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Keras implementations of Generative Adversarial Networks.",
+            "homepage": null,
             "id": 96913967,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-12-12T05:55:51Z",
+            "open_issues": 147,
             "owner": "eriklindernoren",
             "repo": "Keras-GAN",
-            "stars": 9204
+            "stars": 9204,
+            "topics": [
+              "deep-learning",
+              "gan",
+              "generative-adversarial-networks",
+              "keras",
+              "neural-networks"
+            ]
           },
           "first_seen": "2026-08-28T13:38:14.127Z"
         },
@@ -1675,12 +2540,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NVIDIA's Deep Imagination Team's PyTorch Library",
+            "homepage": null,
             "id": 279729856,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-11-29T10:24:50Z",
+            "open_issues": 53,
             "owner": "NVlabs",
             "repo": "imaginaire",
-            "stars": 4082
+            "stars": 4082,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:38:14.127Z"
         }
@@ -1689,15 +2559,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:38:14.127Z",
+    "last_updated": "2026-08-29T04:16:56.543Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of awesome GAN applications and demo",
+      "homepage": null,
       "id": 106639043,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-06-08T10:40:14Z",
+      "open_issues": 20,
       "owner": "nashory",
       "repo": "gans-awesome-applications",
-      "stars": 5102
+      "stars": 5102,
+      "topics": [
+        "applications",
+        "curated-list",
+        "demonstration",
+        "generative-adversarial-network",
+        "github",
+        "papers"
+      ]
     },
     "original_repository_sha": "4e090dc831b5b48a573ea7f08707f064429d3b14",
     "enhanced_repository": "enhansome/gans-enhansome-applications",
