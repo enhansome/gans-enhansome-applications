@@ -162,7 +162,7 @@
                 "open_issues": 58,
                 "owner": "kaonashi-tyc",
                 "repo": "zi2zi",
-                "stars": 2745,
+                "stars": 2746,
                 "topics": [
                   "chinese-characters",
                   "deep-learning",
@@ -600,10 +600,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-03-05T06:04:36Z",
-                "open_issues": 42,
+                "open_issues": 43,
                 "owner": "tianweiy",
                 "repo": "DMD2",
-                "stars": 1439,
+                "stars": 1440,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -624,7 +624,7 @@
                 "open_issues": 137,
                 "owner": "NVlabs",
                 "repo": "Sana",
-                "stars": 8883,
+                "stars": 8892,
                 "topics": [
                   "diffusion",
                   "dit",
@@ -930,7 +930,7 @@
                 "open_issues": 318,
                 "owner": "AliaksandrSiarohin",
                 "repo": "first-order-model",
-                "stars": 15016,
+                "stars": 15015,
                 "topics": [
                   "deep-learning",
                   "generative-model",
@@ -1051,7 +1051,7 @@
                 "open_issues": 59,
                 "owner": "junyanz",
                 "repo": "CycleGAN",
-                "stars": 12870,
+                "stars": 12869,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -1349,7 +1349,7 @@
                 "open_issues": 125,
                 "owner": "advimman",
                 "repo": "lama",
-                "stars": 10225,
+                "stars": 10227,
                 "topics": [
                   "cnn",
                   "colab",
@@ -1513,7 +1513,7 @@
                 "open_issues": 100,
                 "owner": "xinntao",
                 "repo": "ESRGAN",
-                "stars": 6568,
+                "stars": 6569,
                 "topics": [
                   "esrgan"
                 ]
@@ -1536,7 +1536,7 @@
                 "open_issues": 646,
                 "owner": "xinntao",
                 "repo": "Real-ESRGAN",
-                "stars": 36624,
+                "stars": 36632,
                 "topics": [
                   "amine",
                   "denoise",
@@ -1839,7 +1839,7 @@
                 "open_issues": 19,
                 "owner": "NVIDIA",
                 "repo": "BigVGAN",
-                "stars": 1227,
+                "stars": 1226,
                 "topics": [
                   "audio-generation",
                   "audio-synthesis",
@@ -1863,7 +1863,7 @@
                 "id": 648152119,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-26T22:27:52Z",
+                "last_commit": "2026-08-29T15:52:12Z",
                 "open_issues": 48,
                 "owner": "gemelo-ai",
                 "repo": "vocos",
@@ -2169,7 +2169,7 @@
                 "open_issues": 402,
                 "owner": "TencentARC",
                 "repo": "GFPGAN",
-                "stars": 37660,
+                "stars": 37659,
                 "topics": [
                   "deep-learning",
                   "face-restoration",
@@ -2522,7 +2522,7 @@
             "open_issues": 147,
             "owner": "eriklindernoren",
             "repo": "Keras-GAN",
-            "stars": 9204,
+            "stars": 9203,
             "topics": [
               "deep-learning",
               "gan",
@@ -2559,7 +2559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T08:29:35.118Z",
+    "last_updated": "2026-08-30T07:43:16.917Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome GAN applications and demo",
