@@ -162,7 +162,7 @@
                 "open_issues": 58,
                 "owner": "kaonashi-tyc",
                 "repo": "zi2zi",
-                "stars": 2746,
+                "stars": 2747,
                 "topics": [
                   "chinese-characters",
                   "deep-learning",
@@ -370,7 +370,7 @@
                 "open_issues": 154,
                 "owner": "XingangPan",
                 "repo": "DragGAN",
-                "stars": 35751,
+                "stars": 35752,
                 "topics": [
                   "artificial-intelligence",
                   "generative-adversarial-network",
@@ -603,7 +603,7 @@
                 "open_issues": 43,
                 "owner": "tianweiy",
                 "repo": "DMD2",
-                "stars": 1449,
+                "stars": 1450,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -620,11 +620,11 @@
                 "id": 871368615,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-06T03:42:57Z",
-                "open_issues": 137,
+                "last_commit": "2026-09-07T06:28:02Z",
+                "open_issues": 139,
                 "owner": "NVlabs",
                 "repo": "Sana",
-                "stars": 8946,
+                "stars": 8951,
                 "topics": [
                   "diffusion",
                   "dit",
@@ -956,7 +956,7 @@
                 "open_issues": 370,
                 "owner": "Rudrabha",
                 "repo": "Wav2Lip",
-                "stars": 13194,
+                "stars": 13195,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -1137,7 +1137,7 @@
                 "open_issues": 115,
                 "owner": "clovaai",
                 "repo": "stargan-v2",
-                "stars": 3614,
+                "stars": 3615,
                 "topics": [
                   "cvpr2020",
                   "generative-models",
@@ -1349,7 +1349,7 @@
                 "open_issues": 125,
                 "owner": "advimman",
                 "repo": "lama",
-                "stars": 10246,
+                "stars": 10247,
                 "topics": [
                   "cnn",
                   "colab",
@@ -1455,7 +1455,7 @@
                 "open_issues": 153,
                 "owner": "tensorlayer",
                 "repo": "SRGAN",
-                "stars": 3467,
+                "stars": 3468,
                 "topics": [
                   "cnn",
                   "gan",
@@ -1536,7 +1536,7 @@
                 "open_issues": 646,
                 "owner": "xinntao",
                 "repo": "Real-ESRGAN",
-                "stars": 36697,
+                "stars": 36701,
                 "topics": [
                   "amine",
                   "denoise",
@@ -1839,7 +1839,7 @@
                 "open_issues": 19,
                 "owner": "NVIDIA",
                 "repo": "BigVGAN",
-                "stars": 1227,
+                "stars": 1228,
                 "topics": [
                   "audio-generation",
                   "audio-synthesis",
@@ -1867,7 +1867,7 @@
                 "open_issues": 48,
                 "owner": "gemelo-ai",
                 "repo": "vocos",
-                "stars": 1158,
+                "stars": 1159,
                 "topics": [
                   "vocoder",
                   "vocos"
@@ -2169,7 +2169,7 @@
                 "open_issues": 402,
                 "owner": "TencentARC",
                 "repo": "GFPGAN",
-                "stars": 37668,
+                "stars": 37673,
                 "topics": [
                   "deep-learning",
                   "face-restoration",
@@ -2559,7 +2559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T06:43:06.711Z",
+    "last_updated": "2026-09-07T06:51:47.531Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome GAN applications and demo",
