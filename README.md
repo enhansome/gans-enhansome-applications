@@ -36,7 +36,7 @@
 | Improved Techniques for Training GANs                                      | NeurIPS | 2016 | [📄](https://arxiv.org/pdf/1606.03498.pdf) [💻](https://github.com/openai/improved-gan) ⚠️ Archived                                          |
 | BEGAN: Boundary Equilibrium Generative Adversarial Networks                |    —    | 2017 | [📄](https://arxiv.org/pdf/1703.10717) [💻](https://github.com/carpedm20/BEGAN-tensorflow) ⭐ 924 \| 🐛 34 \| 🌐 Python \| 📅 2018-03-26      |
 | Training Generative Adversarial Networks with Limited Data (StyleGAN2-ADA) | NeurIPS | 2020 | [📄](https://arxiv.org/abs/2006.06676) [💻](https://github.com/NVlabs/stylegan2-ada-pytorch) ⭐ 4,489 \| 🐛 201 \| 🌐 Python \| 📅 2024-05-10 |
-| The GAN is dead; long live the GAN! A Modern GAN Baseline (R3GAN)          | NeurIPS | 2024 | [📄](https://arxiv.org/abs/2501.05441) [💻](https://github.com/brownvc/R3GAN) ⭐ 875 \| 🐛 11 \| 🌐 Python \| 📅 2025-01-23                   |
+| The GAN is dead; long live the GAN! A Modern GAN Baseline (R3GAN)          | NeurIPS | 2024 | [📄](https://arxiv.org/abs/2501.05441) [💻](https://github.com/brownvc/R3GAN) ⭐ 876 \| 🐛 11 \| 🌐 Python \| 📅 2025-01-23                   |
 
 ***
 
@@ -258,7 +258,7 @@
 | Semantic Image Inpainting with Perceptual and Contextual Losses          |  CVPR | 2017 | [📄](https://arxiv.org/abs/1607.07539) [💻](https://github.com/bamos/dcgan-completion.tensorflow) ⭐ 1,317 \| 🐛 27 \| 🌐 Python \| 📅 2017-07-18                                                                         |
 | Semi-Supervised Learning with Context-Conditional GANs                   |   —   | 2016 | [📄](https://arxiv.org/pdf/1611.06430v1.pdf)                                                                                                                                                                             |
 | Free-Form Image Inpainting with Gated Convolution (DeepFill v2)          |  ICCV | 2019 | [📄](https://arxiv.org/abs/1806.03589) [💻](https://github.com/JiahuiYu/generative_inpainting) ⭐ 3,469 \| 🐛 76 \| 🌐 Python \| 📅 2024-06-27                                                                            |
-| Resolution-robust Large Mask Inpainting with Fourier Convolutions (LaMa) |  WACV | 2022 | [📄](https://arxiv.org/abs/2109.07161) [💻](https://github.com/advimman/lama) ⭐ 10,288 \| 🐛 127 \| 🌐 Jupyter Notebook \| 📅 2025-02-05                                                                                 |
+| Resolution-robust Large Mask Inpainting with Fourier Convolutions (LaMa) |  WACV | 2022 | [📄](https://arxiv.org/abs/2109.07161) [💻](https://github.com/advimman/lama) ⭐ 10,287 \| 🐛 127 \| 🌐 Jupyter Notebook \| 📅 2025-02-05                                                                                 |
 
 <sub><a href="#contents">↑ back to Contents</a></sub>
 
