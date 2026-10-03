@@ -71,7 +71,7 @@
         {
           "node_type": "item",
           "title": "BEGAN: Boundary Equilibrium Generative Adversarial Networks",
-          "description": "— 2017 📄 💻",
+          "description": "carpedm20/BEGAN-tensorflow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -149,7 +149,7 @@
             {
               "node_type": "item",
               "title": "Learning Chinese Character Style with Conditional GAN (zi2zi)",
-              "description": "— 2017 💻 📝",
+              "description": "kaonashi-tyc/zi2zi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -235,7 +235,7 @@
             {
               "node_type": "item",
               "title": "AnimeGANv2: Photo to Anime Style Transfer",
-              "description": "— 2021 💻",
+              "description": "TachibanaYoshino/AnimeGANv2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -248,7 +248,7 @@
                 "open_issues": 51,
                 "owner": "TachibanaYoshino",
                 "repo": "AnimeGANv2",
-                "stars": 5379,
+                "stars": 5380,
                 "topics": [
                   "animegan",
                   "animeganv2",
@@ -448,7 +448,7 @@
             {
               "node_type": "item",
               "title": "TAC-GAN: Text Conditioned Auxiliary Classifier GAN",
-              "description": "— 2017 📄 💻",
+              "description": "dashayushman/TAC-GAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -624,7 +624,7 @@
                 "open_issues": 141,
                 "owner": "NVlabs",
                 "repo": "Sana",
-                "stars": 9190,
+                "stars": 9191,
                 "topics": [
                   "diffusion",
                   "dit",
@@ -654,7 +654,7 @@
             {
               "node_type": "item",
               "title": "Parametric 3D Exploration with Stacked Adversarial Networks (pix2vox)",
-              "description": "— 2016 💻 🎬",
+              "description": "maxorange/pix2vox",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -701,7 +701,7 @@
             {
               "node_type": "item",
               "title": "Fully Convolutional Refined Auto-Encoding GANs for 3D Multi Object Scenes",
-              "description": "— 2017 💻 📝",
+              "description": "yunishi3/3D-FCR-alphaGAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -757,7 +757,7 @@
             {
               "node_type": "item",
               "title": "Invertible Conditional GANs for Image Editing (IcGAN)",
-              "description": "— 2016 📄 💻",
+              "description": "Guim3/IcGAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -778,7 +778,7 @@
             {
               "node_type": "item",
               "title": "Image De-raining Using a Conditional GAN (ID-CGAN)",
-              "description": "— 2017 📄 💻",
+              "description": "hezhangsprinter/ID-CGAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -984,7 +984,7 @@
                 "open_issues": 0,
                 "owner": "shadow2496",
                 "repo": "VITON-HD",
-                "stars": 1166,
+                "stars": 1167,
                 "topics": [
                   "clothing-agnostic-representation",
                   "deep-learning",
@@ -1019,7 +1019,7 @@
                 "open_issues": 92,
                 "owner": "phillipi",
                 "repo": "pix2pix",
-                "stars": 10660,
+                "stars": 10658,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -1349,7 +1349,7 @@
                 "open_issues": 127,
                 "owner": "advimman",
                 "repo": "lama",
-                "stars": 10286,
+                "stars": 10288,
                 "topics": [
                   "cnn",
                   "colab",
@@ -1421,7 +1421,7 @@
             {
               "node_type": "item",
               "title": "Image Super-Resolution Through Deep Learning (srez)",
-              "description": "— 2016 💻",
+              "description": "david-gpu/srez",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1434,7 +1434,7 @@
                 "open_issues": 5,
                 "owner": "david-gpu",
                 "repo": "srez",
-                "stars": 5268,
+                "stars": 5267,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -1533,10 +1533,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2024-08-06T13:15:18Z",
-                "open_issues": 649,
+                "open_issues": 648,
                 "owner": "xinntao",
                 "repo": "Real-ESRGAN",
-                "stars": 36966,
+                "stars": 36969,
                 "topics": [
                   "amine",
                   "denoise",
@@ -1560,7 +1560,7 @@
             {
               "node_type": "item",
               "title": "Generating Large Images from Latent Vectors",
-              "description": "— 2016 💻 📝",
+              "description": "hardmaru/cppn-gan-vae-tensorflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1615,7 +1615,7 @@
                 "open_issues": 107,
                 "owner": "tamarott",
                 "repo": "SinGAN",
-                "stars": 3341,
+                "stars": 3340,
                 "topics": [
                   "animation",
                   "arbitrery-sizes",
@@ -1649,7 +1649,7 @@
                 "open_issues": 25,
                 "owner": "NVlabs",
                 "repo": "stylegan2",
-                "stars": 11182,
+                "stars": 11181,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -1670,7 +1670,7 @@
                 "open_issues": 192,
                 "owner": "NVlabs",
                 "repo": "stylegan3",
-                "stars": 6948,
+                "stars": 6949,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -1685,7 +1685,7 @@
             {
               "node_type": "item",
               "title": "SalGAN: Visual Saliency Prediction with Generative Adversarial Networks",
-              "description": "— 2017 📄 💻",
+              "description": "imatge-upc/salgan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1788,7 +1788,7 @@
                 "open_issues": 52,
                 "owner": "chrisdonahue",
                 "repo": "wavegan",
-                "stars": 1384,
+                "stars": 1383,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -1968,7 +1968,7 @@
             {
               "node_type": "item",
               "title": "(Physics) Location-Aware Generative Adversarial Networks for Physics Synthesis",
-              "description": "— 2017 📄 💻",
+              "description": "hep-lbdl/adversarial-jets",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2094,7 +2094,7 @@
             {
               "node_type": "item",
               "title": "Knowledge-Guided Deep Fractal Neural Networks for Human Pose Estimation",
-              "description": "— 2017 📄 💻",
+              "description": "Guanghan/GNet-pose",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2169,7 +2169,7 @@
                 "open_issues": 402,
                 "owner": "TencentARC",
                 "repo": "GFPGAN",
-                "stars": 37688,
+                "stars": 37685,
                 "topics": [
                   "deep-learning",
                   "face-restoration",
@@ -2198,7 +2198,7 @@
                 "open_issues": 1,
                 "owner": "jantic",
                 "repo": "DeOldify",
-                "stars": 18479,
+                "stars": 18478,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -2226,7 +2226,7 @@
                 "open_issues": 589,
                 "owner": "junyanz",
                 "repo": "pytorch-CycleGAN-and-pix2pix",
-                "stars": 25257,
+                "stars": 25256,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -2501,7 +2501,7 @@
             "open_issues": 142,
             "owner": "eriklindernoren",
             "repo": "PyTorch-GAN",
-            "stars": 17457,
+            "stars": 17456,
             "topics": []
           },
           "first_seen": "2026-08-28T13:38:14.127Z"
@@ -2559,7 +2559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:48:18.848Z",
+    "last_updated": "2026-10-03T05:17:30.543Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome GAN applications and demo",
