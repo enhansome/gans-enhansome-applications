@@ -162,7 +162,7 @@
                 "open_issues": 58,
                 "owner": "kaonashi-tyc",
                 "repo": "zi2zi",
-                "stars": 2749,
+                "stars": 2750,
                 "topics": [
                   "chinese-characters",
                   "deep-learning",
@@ -624,7 +624,7 @@
                 "open_issues": 141,
                 "owner": "NVlabs",
                 "repo": "Sana",
-                "stars": 9215,
+                "stars": 9214,
                 "topics": [
                   "diffusion",
                   "dit",
@@ -956,7 +956,7 @@
                 "open_issues": 371,
                 "owner": "Rudrabha",
                 "repo": "Wav2Lip",
-                "stars": 13228,
+                "stars": 13230,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -1536,7 +1536,7 @@
                 "open_issues": 648,
                 "owner": "xinntao",
                 "repo": "Real-ESRGAN",
-                "stars": 36995,
+                "stars": 36998,
                 "topics": [
                   "amine",
                   "denoise",
@@ -2198,7 +2198,7 @@
                 "open_issues": 1,
                 "owner": "jantic",
                 "repo": "DeOldify",
-                "stars": 18475,
+                "stars": 18476,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -2226,7 +2226,7 @@
                 "open_issues": 589,
                 "owner": "junyanz",
                 "repo": "pytorch-CycleGAN-and-pix2pix",
-                "stars": 25252,
+                "stars": 25253,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -2522,7 +2522,7 @@
             "open_issues": 147,
             "owner": "eriklindernoren",
             "repo": "Keras-GAN",
-            "stars": 9204,
+            "stars": 9205,
             "topics": [
               "deep-learning",
               "gan",
@@ -2549,7 +2549,7 @@
             "open_issues": 52,
             "owner": "NVlabs",
             "repo": "imaginaire",
-            "stars": 4077,
+            "stars": 4078,
             "topics": []
           },
           "first_seen": "2026-08-28T13:38:14.127Z"
@@ -2559,7 +2559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T08:24:03.495Z",
+    "last_updated": "2026-10-06T11:08:18.386Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome GAN applications and demo",
