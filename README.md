@@ -106,7 +106,7 @@
 | Title                                                     | Venue | Year | Links                                                                                               |
 | :-------------------------------------------------------- | :---: | :--: | :-------------------------------------------------------------------------------------------------- |
 | Towards the Automatic Anime Characters Creation with GANs |   —   | 2017 | [📄](https://arxiv.org/pdf/1708.05509)                                                              |
-| AnimeGANv2: Photo to Anime Style Transfer                 |   —   | 2021 | [💻](https://github.com/TachibanaYoshino/AnimeGANv2) ⭐ 5,380 \| 🐛 51 \| 🌐 Python \| 📅 2024-08-27 |
+| AnimeGANv2: Photo to Anime Style Transfer                 |   —   | 2021 | [💻](https://github.com/TachibanaYoshino/AnimeGANv2) ⭐ 5,382 \| 🐛 51 \| 🌐 Python \| 📅 2024-08-27 |
 
 <sub><a href="#contents">↑ back to Contents</a></sub>
 
@@ -133,7 +133,7 @@
 | Title                                                                      | Venue | Year | Links                                                                                                                                               |
 | :------------------------------------------------------------------------- | :---: | :--: | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
 | StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery                    |  ICCV | 2021 | [📄](https://arxiv.org/abs/2103.17249) [💻](https://github.com/orpatashnik/StyleCLIP) ⭐ 4,114 \| 🐛 64 \| 🌐 HTML \| 📅 2023-05-30                  |
-| Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation (pSp) |  CVPR | 2021 | [📄](https://arxiv.org/abs/2008.00951) [💻](https://github.com/eladrich/pixel2style2pixel) ⭐ 3,348 \| 🐛 11 \| 🌐 Jupyter Notebook \| 📅 2022-10-01 |
+| Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation (pSp) |  CVPR | 2021 | [📄](https://arxiv.org/abs/2008.00951) [💻](https://github.com/eladrich/pixel2style2pixel) ⭐ 3,349 \| 🐛 11 \| 🌐 Jupyter Notebook \| 📅 2022-10-01 |
 
 <sub><a href="#contents">↑ back to Contents</a></sub>
 
@@ -143,7 +143,7 @@
 | :----------------------------------------------------------------------------------- | :-----: | :--: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | TAC-GAN: Text Conditioned Auxiliary Classifier GAN                                   |    —    | 2017 | [📄](https://arxiv.org/pdf/1703.06412.pdf) [💻](https://github.com/dashayushman/TAC-GAN) ⭐ 105 \| 🐛 11 \| 🌐 Python \| 📅 2019-04-26                                                                                                |
 | StackGAN: Text to Photo-realistic Image Synthesis with Stacked GANs                  |   ICCV  | 2017 | [📄](https://arxiv.org/pdf/1612.03242.pdf) [💻](https://github.com/hanzhanggit/StackGAN) ⭐ 1,862 \| 🐛 55 \| 🌐 Python \| 📅 2020-05-15                                                                                              |
-| Generative Adversarial Text to Image Synthesis                                       |   ICML  | 2016 | [📄](https://arxiv.org/pdf/1605.05396.pdf) [💻](https://github.com/paarthneekhara/text-to-image) ⭐ 2,166 \| 🐛 47 \| 🌐 Python \| 📅 2018-01-30 [💻](https://github.com/reedscot/icml2016) ⭐ 911 \| 🐛 31 \| 🌐 Lua \| 📅 2018-09-05 |
+| Generative Adversarial Text to Image Synthesis                                       |   ICML  | 2016 | [📄](https://arxiv.org/pdf/1605.05396.pdf) [💻](https://github.com/paarthneekhara/text-to-image) ⭐ 2,165 \| 🐛 47 \| 🌐 Python \| 📅 2018-01-30 [💻](https://github.com/reedscot/icml2016) ⭐ 911 \| 🐛 31 \| 🌐 Lua \| 📅 2018-09-05 |
 | Learning What and Where to Draw                                                      | NeurIPS | 2016 | [📄](http://www.scottreed.info/files/nips2016.pdf) [💻](https://github.com/reedscot/nips2016) ⭐ 335 \| 🐛 4 \| 🌐 Lua \| 📅 2016-11-01                                                                                               |
 | AttnGAN: Fine-Grained Text to Image Generation with Attentional GANs                 |   CVPR  | 2018 | [📄](https://arxiv.org/abs/1711.10485) [💻](https://github.com/taoxugit/AttnGAN) ⭐ 1,363 \| 🐛 86 \| 🌐 Python \| 📅 2024-07-25                                                                                                      |
 | GigaGAN: Scaling up GANs for Text-to-Image Synthesis                                 |   CVPR  | 2023 | [📄](https://arxiv.org/abs/2303.05511)                                                                                                                                                                                               |
@@ -159,7 +159,7 @@
 | :------------------------------------------------------------------------------------------------- | :-----: | :--: | :--------------------------------------------------------------------------------------------------------------------------- |
 | UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs                   |   CVPR  | 2024 | [📄](https://arxiv.org/abs/2311.09257)                                                                                       |
 | Improved Distribution Matching Distillation for Fast Image Synthesis (DMD2)                        | NeurIPS | 2024 | [📄](https://arxiv.org/abs/2405.14867) [💻](https://github.com/tianweiy/DMD2) ⭐ 1,472 \| 🐛 43 \| 🌐 Python \| 📅 2025-03-05 |
-| SANA-Sprint: One-Step Diffusion with Continuous-Time Consistency Distillation                      |  arXiv  | 2025 | [📄](https://arxiv.org/abs/2503.09641) [💻](https://github.com/NVlabs/Sana) ⭐ 9,615 \| 🐛 138 \| 🌐 Python \| 📅 2026-10-20  |
+| SANA-Sprint: One-Step Diffusion with Continuous-Time Consistency Distillation                      |  arXiv  | 2025 | [📄](https://arxiv.org/abs/2503.09641) [💻](https://github.com/NVlabs/Sana) ⭐ 9,633 \| 🐛 132 \| 🌐 Python \| 📅 2026-10-23  |
 | Diffusion Adversarial Post-Training for One-Step Video Generation (Seaweed-APT)                    |   ICML  | 2025 | [📄](https://arxiv.org/abs/2501.08316) [🌐](https://seaweed-apt.com/)                                                        |
 | Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation (Seaweed-APT2) | NeurIPS | 2025 | [📄](https://arxiv.org/abs/2506.09350) [🌐](https://seaweed-apt.com/2)                                                       |
 
@@ -218,7 +218,7 @@
 | Title                                                                                |  Venue  | Year | Links                                                                                                                                                           |
 | :----------------------------------------------------------------------------------- | :-----: | :--: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | First Order Motion Model for Image Animation                                         | NeurIPS | 2019 | [📄](https://arxiv.org/abs/2003.00196) [💻](https://github.com/AliaksandrSiarohin/first-order-model) ⭐ 15,001 \| 🐛 318 \| 🌐 Jupyter Notebook \| 📅 2024-11-14 |
-| A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild (Wav2Lip) |  ACM MM | 2020 | [📄](https://arxiv.org/abs/2008.10010) [💻](https://github.com/Rudrabha/Wav2Lip) ⭐ 13,252 \| 🐛 370 \| 🌐 Python \| 📅 2025-06-22                               |
+| A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild (Wav2Lip) |  ACM MM | 2020 | [📄](https://arxiv.org/abs/2008.10010) [💻](https://github.com/Rudrabha/Wav2Lip) ⭐ 13,253 \| 🐛 370 \| 🌐 Python \| 📅 2025-06-22                               |
 
 <sub><a href="#contents">↑ back to Contents</a></sub>
 
@@ -258,7 +258,7 @@
 | Semantic Image Inpainting with Perceptual and Contextual Losses          |  CVPR | 2017 | [📄](https://arxiv.org/abs/1607.07539) [💻](https://github.com/bamos/dcgan-completion.tensorflow) ⭐ 1,317 \| 🐛 27 \| 🌐 Python \| 📅 2017-07-18                                                                         |
 | Semi-Supervised Learning with Context-Conditional GANs                   |   —   | 2016 | [📄](https://arxiv.org/pdf/1611.06430v1.pdf)                                                                                                                                                                             |
 | Free-Form Image Inpainting with Gated Convolution (DeepFill v2)          |  ICCV | 2019 | [📄](https://arxiv.org/abs/1806.03589) [💻](https://github.com/JiahuiYu/generative_inpainting) ⭐ 3,471 \| 🐛 76 \| 🌐 Python \| 📅 2024-06-27                                                                            |
-| Resolution-robust Large Mask Inpainting with Fourier Convolutions (LaMa) |  WACV | 2022 | [📄](https://arxiv.org/abs/2109.07161) [💻](https://github.com/advimman/lama) ⭐ 10,337 \| 🐛 127 \| 🌐 Jupyter Notebook \| 📅 2025-02-05                                                                                 |
+| Resolution-robust Large Mask Inpainting with Fourier Convolutions (LaMa) |  WACV | 2022 | [📄](https://arxiv.org/abs/2109.07161) [💻](https://github.com/advimman/lama) ⭐ 10,342 \| 🐛 127 \| 🌐 Jupyter Notebook \| 📅 2025-02-05                                                                                 |
 
 <sub><a href="#contents">↑ back to Contents</a></sub>
 
@@ -266,7 +266,7 @@
 
 | Title                                                    |  Venue | Year | Links                                                                                                                       |
 | :------------------------------------------------------- | :----: | :--: | :-------------------------------------------------------------------------------------------------------------------------- |
-| GP-GAN: Towards Realistic High-Resolution Image Blending | ACM MM | 2019 | [📄](https://arxiv.org/abs/1703.07195) [💻](https://github.com/wuhuikai/GP-GAN) ⭐ 473 \| 🐛 2 \| 🌐 Python \| 📅 2020-03-27 |
+| GP-GAN: Towards Realistic High-Resolution Image Blending | ACM MM | 2019 | [📄](https://arxiv.org/abs/1703.07195) [💻](https://github.com/wuhuikai/GP-GAN) ⭐ 474 \| 🐛 2 \| 🌐 Python \| 📅 2020-03-27 |
 
 <sub><a href="#contents">↑ back to Contents</a></sub>
 
@@ -275,11 +275,11 @@
 | Title                                                                            | Venue | Year | Links                                                                                                                                              |
 | :------------------------------------------------------------------------------- | :---: | :--: | :------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Image Super-Resolution Through Deep Learning (srez)                              |   —   | 2016 | [💻](https://github.com/david-gpu/srez) ⚠️ Archived                                                                                                |
-| Photo-Realistic Single Image Super-Resolution Using a GAN (SRGAN)                |  CVPR | 2017 | [📄](https://arxiv.org/abs/1609.04802) [💻](https://github.com/tensorlayer/SRGAN) ⭐ 3,467 \| 🐛 153 \| 🌐 Python \| 📅 2024-02-22                  |
+| Photo-Realistic Single Image Super-Resolution Using a GAN (SRGAN)                |  CVPR | 2017 | [📄](https://arxiv.org/abs/1609.04802) [💻](https://github.com/tensorlayer/SRGAN) ⭐ 3,466 \| 🐛 153 \| 🌐 Python \| 📅 2024-02-22                  |
 | High-Quality Face Image Super-Resolution Using Conditional GANs                  |   —   | 2017 | [📄](https://arxiv.org/pdf/1707.00737.pdf)                                                                                                         |
 | Analyzing Perception-Distortion Tradeoff (EPSR)                                  | ECCVW | 2018 | [📄](https://arxiv.org/pdf/1811.00344.pdf) [💻](https://github.com/subeeshvasu/2018_subeesh_epsr_eccvw) ⭐ 79 \| 🐛 0 \| 🌐 Python \| 📅 2020-07-14 |
-| ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks                | ECCVW | 2018 | [📄](https://arxiv.org/abs/1809.00219) [💻](https://github.com/xinntao/ESRGAN) ⭐ 6,571 \| 🐛 101 \| 🌐 Python \| 📅 2022-10-19                     |
-| Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data | ICCVW | 2021 | [📄](https://arxiv.org/abs/2107.10833) [💻](https://github.com/xinntao/Real-ESRGAN) ⭐ 37,176 \| 🐛 649 \| 🌐 Python \| 📅 2024-08-06               |
+| ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks                | ECCVW | 2018 | [📄](https://arxiv.org/abs/1809.00219) [💻](https://github.com/xinntao/ESRGAN) ⭐ 6,572 \| 🐛 101 \| 🌐 Python \| 📅 2022-10-19                     |
+| Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data | ICCVW | 2021 | [📄](https://arxiv.org/abs/2107.10833) [💻](https://github.com/xinntao/Real-ESRGAN) ⭐ 37,195 \| 🐛 649 \| 🌐 Python \| 📅 2024-08-06               |
 
 <sub><a href="#contents">↑ back to Contents</a></sub>
 
@@ -291,8 +291,8 @@
 | Progressive Growing of GANs for Improved Quality, Stability, and Variation (PGGAN) |   ICLR  | 2018 | [📄](http://research.nvidia.com/sites/default/files/pubs/2017-10_Progressive-Growing-of//karras2017gan-paper.pdf) [💻](https://github.com/tkarras/progressive_growing_of_gans) ⭐ 6,175 \| 🐛 11 \| 🌐 Python \| 📅 2022-02-17 |
 | Large Scale GAN Training for High Fidelity Natural Image Synthesis (BigGAN)        |   ICLR  | 2019 | [📄](https://arxiv.org/abs/1809.11096)                                                                                                                                                                                        |
 | SinGAN: Learning a Generative Model from a Single Natural Image                    |   ICCV  | 2019 | [📄](https://arxiv.org/abs/1905.01164) [💻](https://github.com/tamarott/SinGAN) ⭐ 3,342 \| 🐛 107 \| 🌐 Python \| 📅 2023-05-26                                                                                               |
-| Analyzing and Improving the Image Quality of StyleGAN (StyleGAN2)                  |   CVPR  | 2020 | [📄](https://arxiv.org/abs/1912.04958) [💻](https://github.com/NVlabs/stylegan2) ⭐ 11,180 \| 🐛 25 \| 🌐 Python \| 📅 2024-05-18                                                                                              |
-| Alias-Free Generative Adversarial Networks (StyleGAN3)                             | NeurIPS | 2021 | [📄](https://arxiv.org/abs/2106.12423) [💻](https://github.com/NVlabs/stylegan3) ⭐ 6,946 \| 🐛 191 \| 🌐 Python \| 📅 2023-09-12                                                                                              |
+| Analyzing and Improving the Image Quality of StyleGAN (StyleGAN2)                  |   CVPR  | 2020 | [📄](https://arxiv.org/abs/1912.04958) [💻](https://github.com/NVlabs/stylegan2) ⭐ 11,179 \| 🐛 25 \| 🌐 Python \| 📅 2024-05-18                                                                                              |
+| Alias-Free Generative Adversarial Networks (StyleGAN3)                             | NeurIPS | 2021 | [📄](https://arxiv.org/abs/2106.12423) [💻](https://github.com/NVlabs/stylegan3) ⭐ 6,947 \| 🐛 191 \| 🌐 Python \| 📅 2023-09-12                                                                                              |
 
 <sub><a href="#contents">↑ back to Contents</a></sub>
 
@@ -327,7 +327,7 @@
 | Title                                                                                     |   Venue  | Year | Links                                                                                                                                                |
 | :---------------------------------------------------------------------------------------- | :------: | :--: | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Deep Multi-Scale Video Prediction Beyond Mean Square Error                                |   ICLR   | 2016 | [📄](https://arxiv.org/pdf/1511.05440.pdf) [💻](https://github.com/dyelax/Adversarial_Video_Generation) ⭐ 749 \| 🐛 24 \| 🌐 Python \| 📅 2021-10-23 |
-| Learning Temporal Coherence via Self-Supervision for GAN-based Video Generation (TecoGAN) | SIGGRAPH | 2020 | [📄](https://arxiv.org/abs/1811.09393) [💻](https://github.com/thunil/TecoGAN) ⭐ 6,132 \| 🐛 88 \| 🌐 Python \| 📅 2023-08-17                        |
+| Learning Temporal Coherence via Self-Supervision for GAN-based Video Generation (TecoGAN) | SIGGRAPH | 2020 | [📄](https://arxiv.org/abs/1811.09393) [💻](https://github.com/thunil/TecoGAN) ⭐ 6,131 \| 🐛 88 \| 🌐 Python \| 📅 2023-08-17                        |
 
 <sub><a href="#contents">↑ back to Contents</a></sub>
 
@@ -337,7 +337,7 @@
 | :---------------------------------------------------------------------------------------- | :-----: | :--: | :---------------------------------------------------------------------------------------------------------------------------------- |
 | Adversarial Audio Synthesis (WaveGAN)                                                     |   ICLR  | 2019 | [📄](https://arxiv.org/abs/1802.04208) [💻](https://github.com/chrisdonahue/wavegan) ⭐ 1,382 \| 🐛 52 \| 🌐 Python \| 📅 2022-11-27 |
 | HiFi-GAN: GANs for Efficient and High Fidelity Speech Synthesis                           | NeurIPS | 2020 | [📄](https://arxiv.org/abs/2010.05646) [💻](https://github.com/jik876/hifi-gan) ⭐ 2,377 \| 🐛 111 \| 🌐 Python \| 📅 2024-07-27     |
-| BigVGAN: A Universal Neural Vocoder with Large-Scale Training (v2 2024)                   |   ICLR  | 2023 | [📄](https://arxiv.org/abs/2206.04658) [💻](https://github.com/NVIDIA/BigVGAN) ⭐ 1,233 \| 🐛 19 \| 🌐 Python \| 📅 2024-09-05       |
+| BigVGAN: A Universal Neural Vocoder with Large-Scale Training (v2 2024)                   |   ICLR  | 2023 | [📄](https://arxiv.org/abs/2206.04658) [💻](https://github.com/NVIDIA/BigVGAN) ⭐ 1,234 \| 🐛 19 \| 🌐 Python \| 📅 2024-09-05       |
 | Vocos: Closing the Gap between Time-domain and Fourier-based Neural Vocoders              |   ICLR  | 2024 | [📄](https://arxiv.org/abs/2306.00814) [💻](https://github.com/gemelo-ai/vocos) ⭐ 1,164 \| 🐛 48 \| 🌐 Python \| 📅 2026-08-29      |
 | BemaGANv2: Discriminator Combination Strategies for GAN-based Vocoders in Long-Term Audio |  arXiv  | 2025 | [📄](https://arxiv.org/abs/2506.09487) [💻](https://github.com/dinhoitt/BemaGANv2) ⭐ 22 \| 🐛 3 \| 🌐 Python \| 📅 2026-03-03       |
 
@@ -442,15 +442,15 @@ Genuinely awesome, widely-used GitHub repos built on GANs — usable code and to
 
 | Repo                                                                                                       |                                                Stars                                               | What it does                                           |
 | :--------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------: | :----------------------------------------------------- |
-| [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) ⭐ 37,702 \| 🐛 402 \| 🌐 Python \| 📅 2024-07-26 | ![](https://img.shields.io/github/stars/TencentARC/GFPGAN?style=flat\&label=%E2%AD%90\&color=gold) | Practical real-world face restoration                  |
+| [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) ⭐ 37,704 \| 🐛 402 \| 🌐 Python \| 📅 2024-07-26 | ![](https://img.shields.io/github/stars/TencentARC/GFPGAN?style=flat\&label=%E2%AD%90\&color=gold) | Practical real-world face restoration                  |
 | [jantic/DeOldify](https://github.com/jantic/DeOldify) ⚠️ Archived                                          |  ![](https://img.shields.io/github/stars/jantic/DeOldify?style=flat\&label=%E2%AD%90\&color=gold)  | Colorize and restore old photos and video *(archived)* |
 
 ### Foundational model code (official / canonical)
 
 | Repo                                                                                                                                             |                                                         Stars                                                         | What it does                                     |
 | :----------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------- |
-| [junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) ⭐ 25,266 \| 🐛 589 \| 🌐 Python \| 📅 2025-08-06 | ![](https://img.shields.io/github/stars/junyanz/pytorch-CycleGAN-and-pix2pix?style=flat\&label=%E2%AD%90\&color=gold) | Official CycleGAN + pix2pix in PyTorch           |
-| [NVlabs/stylegan](https://github.com/NVlabs/stylegan) ⭐ 14,408 \| 🐛 12 \| 🌐 Python \| 📅 2024-04-10                                            |            ![](https://img.shields.io/github/stars/NVlabs/stylegan?style=flat\&label=%E2%AD%90\&color=gold)           | Official StyleGAN                                |
+| [junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) ⭐ 25,265 \| 🐛 589 \| 🌐 Python \| 📅 2025-08-06 | ![](https://img.shields.io/github/stars/junyanz/pytorch-CycleGAN-and-pix2pix?style=flat\&label=%E2%AD%90\&color=gold) | Official CycleGAN + pix2pix in PyTorch           |
+| [NVlabs/stylegan](https://github.com/NVlabs/stylegan) ⭐ 14,409 \| 🐛 12 \| 🌐 Python \| 📅 2024-04-10                                            |            ![](https://img.shields.io/github/stars/NVlabs/stylegan?style=flat\&label=%E2%AD%90\&color=gold)           | Official StyleGAN                                |
 | [NVlabs/SPADE](https://github.com/NVlabs/SPADE) ⭐ 7,716 \| 🐛 100 \| 🌐 Python \| 📅 2023-08-07                                                  |             ![](https://img.shields.io/github/stars/NVlabs/SPADE?style=flat\&label=%E2%AD%90\&color=gold)             | Semantic image synthesis, a.k.a. GauGAN          |
 | [NVIDIA/pix2pixHD](https://github.com/NVIDIA/pix2pixHD) ⭐ 6,927 \| 🐛 247 \| 🌐 Python \| 📅 2024-11-04                                          |           ![](https://img.shields.io/github/stars/NVIDIA/pix2pixHD?style=flat\&label=%E2%AD%90\&color=gold)           | High-resolution image synthesis and manipulation |
 | [ajbrock/BigGAN-PyTorch](https://github.com/ajbrock/BigGAN-PyTorch) ⭐ 2,928 \| 🐛 49 \| 🌐 Python \| 📅 2023-07-19                               |        ![](https://img.shields.io/github/stars/ajbrock/BigGAN-PyTorch?style=flat\&label=%E2%AD%90\&color=gold)        | The author's PyTorch BigGAN                      |
@@ -464,11 +464,11 @@ Genuinely awesome, widely-used GitHub repos built on GANs — usable code and to
 | Repo                                                                                                                                                                       |                                                                Stars                                                                | Framework                                     |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------- |
 | [nashory/gans-collection.torch](https://github.com/nashory/gans-collection.torch) ⭐ 54 \| 🐛 2 \| 🌐 Lua \| 📅 2017-10-14                                                  |            ![](https://img.shields.io/github/stars/nashory/gans-collection.torch?style=flat\&label=%E2%AD%90\&color=gold)           | Torch7                                        |
-| [hwalsuklee/tensorflow-generative-model-collections](https://github.com/hwalsuklee/tensorflow-generative-model-collections) ⭐ 3,920 \| 🐛 24 \| 🌐 Python \| 📅 2022-08-08 | ![](https://img.shields.io/github/stars/hwalsuklee/tensorflow-generative-model-collections?style=flat\&label=%E2%AD%90\&color=gold) | TensorFlow                                    |
+| [hwalsuklee/tensorflow-generative-model-collections](https://github.com/hwalsuklee/tensorflow-generative-model-collections) ⭐ 3,921 \| 🐛 24 \| 🌐 Python \| 📅 2022-08-08 | ![](https://img.shields.io/github/stars/hwalsuklee/tensorflow-generative-model-collections?style=flat\&label=%E2%AD%90\&color=gold) | TensorFlow                                    |
 | [wiseodd/generative-models](https://github.com/wiseodd/generative-models) ⭐ 7,490 \| 🐛 30 \| 🌐 Python \| 📅 2024-03-24                                                   |              ![](https://img.shields.io/github/stars/wiseodd/generative-models?style=flat\&label=%E2%AD%90\&color=gold)             | PyTorch & TensorFlow                          |
 | [aboev/arae-tf](https://github.com/aboev/arae-tf) ⭐ 20 \| 🐛 0 \| 🌐 Python \| 📅 2018-02-04                                                                               |                    ![](https://img.shields.io/github/stars/aboev/arae-tf?style=flat\&label=%E2%AD%90\&color=gold)                   | TensorFlow                                    |
-| [eriklindernoren/PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN) ⭐ 17,454 \| 🐛 142 \| 🌐 Python \| 📅 2024-06-18                                             |             ![](https://img.shields.io/github/stars/eriklindernoren/PyTorch-GAN?style=flat\&label=%E2%AD%90\&color=gold)            | PyTorch — dozens of GANs                      |
-| [eriklindernoren/Keras-GAN](https://github.com/eriklindernoren/Keras-GAN) ⭐ 9,203 \| 🐛 147 \| 🌐 Python \| 📅 2022-12-12                                                  |              ![](https://img.shields.io/github/stars/eriklindernoren/Keras-GAN?style=flat\&label=%E2%AD%90\&color=gold)             | Keras — many GANs                             |
+| [eriklindernoren/PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN) ⭐ 17,455 \| 🐛 142 \| 🌐 Python \| 📅 2024-06-18                                             |             ![](https://img.shields.io/github/stars/eriklindernoren/PyTorch-GAN?style=flat\&label=%E2%AD%90\&color=gold)            | PyTorch — dozens of GANs                      |
+| [eriklindernoren/Keras-GAN](https://github.com/eriklindernoren/Keras-GAN) ⭐ 9,205 \| 🐛 147 \| 🌐 Python \| 📅 2022-12-12                                                  |              ![](https://img.shields.io/github/stars/eriklindernoren/Keras-GAN?style=flat\&label=%E2%AD%90\&color=gold)             | Keras — many GANs                             |
 | [NVlabs/imaginaire](https://github.com/NVlabs/imaginaire) ⭐ 4,080 \| 🐛 52 \| 🌐 Python \| 📅 2022-11-29                                                                   |                  ![](https://img.shields.io/github/stars/NVlabs/imaginaire?style=flat\&label=%E2%AD%90\&color=gold)                 | PyTorch — NVIDIA image & video synthesis GANs |
 
 <sub><a href="#contents">↑ back to Contents</a></sub>
@@ -491,4 +491,4 @@ Minchul Shin, [@nashory](https://github.com/nashory)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
