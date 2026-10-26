@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "goodfeli",
             "repo": "adversarial",
-            "stars": 4087,
+            "stars": 4088,
             "topics": []
           },
           "first_seen": "2026-08-28T13:38:14.127Z"
@@ -248,7 +248,7 @@
                 "open_issues": 51,
                 "owner": "TachibanaYoshino",
                 "repo": "AnimeGANv2",
-                "stars": 5383,
+                "stars": 5384,
                 "topics": [
                   "animegan",
                   "animeganv2",
@@ -370,7 +370,7 @@
                 "open_issues": 154,
                 "owner": "XingangPan",
                 "repo": "DragGAN",
-                "stars": 35718,
+                "stars": 35720,
                 "topics": [
                   "artificial-intelligence",
                   "generative-adversarial-network",
@@ -624,7 +624,7 @@
                 "open_issues": 132,
                 "owner": "NVlabs",
                 "repo": "Sana",
-                "stars": 9642,
+                "stars": 9652,
                 "topics": [
                   "diffusion",
                   "dit",
@@ -1110,7 +1110,7 @@
                 "open_issues": 67,
                 "owner": "yunjey",
                 "repo": "stargan",
-                "stars": 5296,
+                "stars": 5297,
                 "topics": [
                   "cvpr2018",
                   "generative-models",
@@ -1349,7 +1349,7 @@
                 "open_issues": 127,
                 "owner": "advimman",
                 "repo": "lama",
-                "stars": 10345,
+                "stars": 10346,
                 "topics": [
                   "cnn",
                   "colab",
@@ -1434,7 +1434,7 @@
                 "open_issues": 5,
                 "owner": "david-gpu",
                 "repo": "srez",
-                "stars": 5266,
+                "stars": 5267,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -1536,7 +1536,7 @@
                 "open_issues": 649,
                 "owner": "xinntao",
                 "repo": "Real-ESRGAN",
-                "stars": 37210,
+                "stars": 37222,
                 "topics": [
                   "amine",
                   "denoise",
@@ -1594,7 +1594,7 @@
                 "open_issues": 11,
                 "owner": "tkarras",
                 "repo": "progressive_growing_of_gans",
-                "stars": 6175,
+                "stars": 6176,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -1760,7 +1760,7 @@
                 "open_issues": 88,
                 "owner": "thunil",
                 "repo": "TecoGAN",
-                "stars": 6131,
+                "stars": 6132,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -1867,7 +1867,7 @@
                 "open_issues": 48,
                 "owner": "gemelo-ai",
                 "repo": "vocos",
-                "stars": 1164,
+                "stars": 1163,
                 "topics": [
                   "vocoder",
                   "vocos"
@@ -2169,7 +2169,7 @@
                 "open_issues": 402,
                 "owner": "TencentARC",
                 "repo": "GFPGAN",
-                "stars": 37705,
+                "stars": 37704,
                 "topics": [
                   "deep-learning",
                   "face-restoration",
@@ -2498,7 +2498,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2024-06-18T07:08:31Z",
-            "open_issues": 142,
+            "open_issues": 143,
             "owner": "eriklindernoren",
             "repo": "PyTorch-GAN",
             "stars": 17457,
@@ -2559,7 +2559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T07:09:11.878Z",
+    "last_updated": "2026-10-26T07:16:24.136Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome GAN applications and demo",
@@ -2571,7 +2571,7 @@
       "open_issues": 20,
       "owner": "nashory",
       "repo": "gans-awesome-applications",
-      "stars": 5101,
+      "stars": 5102,
       "topics": [
         "applications",
         "curated-list",
