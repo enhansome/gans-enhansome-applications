@@ -248,7 +248,7 @@
                 "open_issues": 51,
                 "owner": "TachibanaYoshino",
                 "repo": "AnimeGANv2",
-                "stars": 5380,
+                "stars": 5379,
                 "topics": [
                   "animegan",
                   "animeganv2",
@@ -370,7 +370,7 @@
                 "open_issues": 153,
                 "owner": "XingangPan",
                 "repo": "DragGAN",
-                "stars": 35702,
+                "stars": 35700,
                 "topics": [
                   "artificial-intelligence",
                   "generative-adversarial-network",
@@ -620,11 +620,11 @@
                 "id": 871368615,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T15:26:24Z",
-                "open_issues": 142,
+                "last_commit": "2026-11-09T08:09:51Z",
+                "open_issues": 143,
                 "owner": "NVlabs",
                 "repo": "Sana",
-                "stars": 9787,
+                "stars": 9797,
                 "topics": [
                   "diffusion",
                   "dit",
@@ -742,7 +742,7 @@
                 "open_issues": 66,
                 "owner": "NVlabs",
                 "repo": "eg3d",
-                "stars": 3337,
+                "stars": 3336,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -956,7 +956,7 @@
                 "open_issues": 371,
                 "owner": "Rudrabha",
                 "repo": "Wav2Lip",
-                "stars": 13272,
+                "stars": 13271,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -1019,7 +1019,7 @@
                 "open_issues": 93,
                 "owner": "phillipi",
                 "repo": "pix2pix",
-                "stars": 10662,
+                "stars": 10661,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -1533,10 +1533,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2024-08-06T13:15:18Z",
-                "open_issues": 649,
+                "open_issues": 648,
                 "owner": "xinntao",
                 "repo": "Real-ESRGAN",
-                "stars": 37405,
+                "stars": 37414,
                 "topics": [
                   "amine",
                   "denoise",
@@ -1649,7 +1649,7 @@
                 "open_issues": 25,
                 "owner": "NVlabs",
                 "repo": "stylegan2",
-                "stars": 11182,
+                "stars": 11179,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -1670,7 +1670,7 @@
                 "open_issues": 191,
                 "owner": "NVlabs",
                 "repo": "stylegan3",
-                "stars": 6946,
+                "stars": 6943,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -1788,7 +1788,7 @@
                 "open_issues": 52,
                 "owner": "chrisdonahue",
                 "repo": "wavegan",
-                "stars": 1384,
+                "stars": 1385,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -2169,7 +2169,7 @@
                 "open_issues": 402,
                 "owner": "TencentARC",
                 "repo": "GFPGAN",
-                "stars": 37698,
+                "stars": 37702,
                 "topics": [
                   "deep-learning",
                   "face-restoration",
@@ -2198,7 +2198,7 @@
                 "open_issues": 1,
                 "owner": "jantic",
                 "repo": "DeOldify",
-                "stars": 18450,
+                "stars": 18449,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -2559,7 +2559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T08:24:43.598Z",
+    "last_updated": "2026-11-09T08:54:58.617Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome GAN applications and demo",
