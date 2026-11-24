@@ -112,7 +112,7 @@
             "open_issues": 201,
             "owner": "NVlabs",
             "repo": "stylegan2-ada-pytorch",
-            "stars": 4491,
+            "stars": 4492,
             "topics": []
           },
           "first_seen": "2026-08-28T13:38:14.127Z"
@@ -245,7 +245,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2024-08-27T04:44:47Z",
-                "open_issues": 51,
+                "open_issues": 52,
                 "owner": "TachibanaYoshino",
                 "repo": "AnimeGANv2",
                 "stars": 5373,
@@ -370,7 +370,7 @@
                 "open_issues": 153,
                 "owner": "XingangPan",
                 "repo": "DragGAN",
-                "stars": 35832,
+                "stars": 35830,
                 "topics": [
                   "artificial-intelligence",
                   "generative-adversarial-network",
@@ -424,7 +424,7 @@
                 "open_issues": 11,
                 "owner": "eladrich",
                 "repo": "pixel2style2pixel",
-                "stars": 3352,
+                "stars": 3353,
                 "topics": [
                   "cvpr2021",
                   "generative-adversarial-network",
@@ -615,16 +615,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, and World Modeling",
+                "description": "SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, World Modeling and Robotics ",
                 "homepage": "https://nvlabs.github.io/Sana/docs/",
                 "id": 871368615,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-22T19:31:04Z",
-                "open_issues": 146,
+                "last_commit": "2026-11-24T04:35:28Z",
+                "open_issues": 142,
                 "owner": "NVlabs",
                 "repo": "Sana",
-                "stars": 9868,
+                "stars": 9885,
                 "topics": [
                   "diffusion",
                   "dit",
@@ -632,6 +632,7 @@
                   "nvfp4",
                   "pytorch",
                   "reinforcement-learning",
+                  "robotics",
                   "sana",
                   "streaming-video",
                   "system-algorithm-deisgn",
@@ -956,7 +957,7 @@
                 "open_issues": 372,
                 "owner": "Rudrabha",
                 "repo": "Wav2Lip",
-                "stars": 13282,
+                "stars": 13283,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -1349,7 +1350,7 @@
                 "open_issues": 130,
                 "owner": "advimman",
                 "repo": "lama",
-                "stars": 10410,
+                "stars": 10413,
                 "topics": [
                   "cnn",
                   "colab",
@@ -1434,7 +1435,7 @@
                 "open_issues": 5,
                 "owner": "david-gpu",
                 "repo": "srez",
-                "stars": 5262,
+                "stars": 5261,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -1536,7 +1537,7 @@
                 "open_issues": 649,
                 "owner": "xinntao",
                 "repo": "Real-ESRGAN",
-                "stars": 37617,
+                "stars": 37630,
                 "topics": [
                   "amine",
                   "denoise",
@@ -1760,7 +1761,7 @@
                 "open_issues": 87,
                 "owner": "thunil",
                 "repo": "TecoGAN",
-                "stars": 6132,
+                "stars": 6131,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -2169,7 +2170,7 @@
                 "open_issues": 404,
                 "owner": "TencentARC",
                 "repo": "GFPGAN",
-                "stars": 37732,
+                "stars": 37734,
                 "topics": [
                   "deep-learning",
                   "face-restoration",
@@ -2198,7 +2199,7 @@
                 "open_issues": 1,
                 "owner": "jantic",
                 "repo": "DeOldify",
-                "stars": 18442,
+                "stars": 18444,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -2226,7 +2227,7 @@
                 "open_issues": 589,
                 "owner": "junyanz",
                 "repo": "pytorch-CycleGAN-and-pix2pix",
-                "stars": 25285,
+                "stars": 25284,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -2301,7 +2302,7 @@
                 "open_issues": 247,
                 "owner": "NVIDIA",
                 "repo": "pix2pixHD",
-                "stars": 6927,
+                "stars": 6928,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -2501,7 +2502,7 @@
             "open_issues": 143,
             "owner": "eriklindernoren",
             "repo": "PyTorch-GAN",
-            "stars": 17452,
+            "stars": 17453,
             "topics": []
           },
           "first_seen": "2026-08-28T13:38:14.127Z"
@@ -2522,7 +2523,7 @@
             "open_issues": 147,
             "owner": "eriklindernoren",
             "repo": "Keras-GAN",
-            "stars": 9201,
+            "stars": 9202,
             "topics": [
               "deep-learning",
               "gan",
@@ -2559,7 +2560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T10:04:18.929Z",
+    "last_updated": "2026-11-24T11:52:42.777Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome GAN applications and demo",
@@ -2571,7 +2572,7 @@
       "open_issues": 20,
       "owner": "nashory",
       "repo": "gans-awesome-applications",
-      "stars": 5104,
+      "stars": 5105,
       "topics": [
         "applications",
         "curated-list",
