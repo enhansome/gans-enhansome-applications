@@ -40,7 +40,7 @@
             "open_issues": 41,
             "owner": "soumith",
             "repo": "dcgan.torch",
-            "stars": 1487,
+            "stars": 1486,
             "topics": []
           },
           "first_seen": "2026-08-28T13:38:14.127Z"
@@ -312,7 +312,7 @@
                 "open_issues": 14,
                 "owner": "junyanz",
                 "repo": "iGAN",
-                "stars": 4010,
+                "stars": 4009,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -370,7 +370,7 @@
                 "open_issues": 153,
                 "owner": "XingangPan",
                 "repo": "DragGAN",
-                "stars": 35830,
+                "stars": 35831,
                 "topics": [
                   "artificial-intelligence",
                   "generative-adversarial-network",
@@ -486,7 +486,7 @@
                 "open_issues": 55,
                 "owner": "hanzhanggit",
                 "repo": "StackGAN",
-                "stars": 1860,
+                "stars": 1859,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -620,11 +620,11 @@
                 "id": 871368615,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T04:35:28Z",
-                "open_issues": 142,
+                "last_commit": "2026-11-25T06:31:38Z",
+                "open_issues": 138,
                 "owner": "NVlabs",
                 "repo": "Sana",
-                "stars": 9885,
+                "stars": 9895,
                 "topics": [
                   "diffusion",
                   "dit",
@@ -743,7 +743,7 @@
                 "open_issues": 66,
                 "owner": "NVlabs",
                 "repo": "eg3d",
-                "stars": 3336,
+                "stars": 3337,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -957,7 +957,7 @@
                 "open_issues": 372,
                 "owner": "Rudrabha",
                 "repo": "Wav2Lip",
-                "stars": 13283,
+                "stars": 13284,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -1020,7 +1020,7 @@
                 "open_issues": 93,
                 "owner": "phillipi",
                 "repo": "pix2pix",
-                "stars": 10663,
+                "stars": 10662,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -1258,11 +1258,11 @@
               "repo_info": {
                 "archived": false,
                 "description": "[CVPR 2016] Unsupervised Feature Learning by Image Inpainting using GANs",
-                "homepage": "https://www.cs.cmu.edu/~dpathak/context_encoder/",
+                "homepage": "https://pathak22.github.io/context-encoder/",
                 "id": 56881233,
                 "language": "Lua",
                 "license": "NOASSERTION",
-                "last_commit": "2020-07-19T21:37:48Z",
+                "last_commit": "2026-11-24T19:10:41Z",
                 "open_issues": 117,
                 "owner": "pathak22",
                 "repo": "context-encoder",
@@ -1347,10 +1347,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2025-02-05T08:41:52Z",
-                "open_issues": 130,
+                "open_issues": 131,
                 "owner": "advimman",
                 "repo": "lama",
-                "stars": 10413,
+                "stars": 10414,
                 "topics": [
                   "cnn",
                   "colab",
@@ -1435,7 +1435,7 @@
                 "open_issues": 5,
                 "owner": "david-gpu",
                 "repo": "srez",
-                "stars": 5261,
+                "stars": 5260,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -1514,7 +1514,7 @@
                 "open_issues": 101,
                 "owner": "xinntao",
                 "repo": "ESRGAN",
-                "stars": 6572,
+                "stars": 6571,
                 "topics": [
                   "esrgan"
                 ]
@@ -1537,7 +1537,7 @@
                 "open_issues": 649,
                 "owner": "xinntao",
                 "repo": "Real-ESRGAN",
-                "stars": 37630,
+                "stars": 37648,
                 "topics": [
                   "amine",
                   "denoise",
@@ -1761,7 +1761,7 @@
                 "open_issues": 87,
                 "owner": "thunil",
                 "repo": "TecoGAN",
-                "stars": 6131,
+                "stars": 6129,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -2170,7 +2170,7 @@
                 "open_issues": 404,
                 "owner": "TencentARC",
                 "repo": "GFPGAN",
-                "stars": 37734,
+                "stars": 37735,
                 "topics": [
                   "deep-learning",
                   "face-restoration",
@@ -2199,7 +2199,7 @@
                 "open_issues": 1,
                 "owner": "jantic",
                 "repo": "DeOldify",
-                "stars": 18444,
+                "stars": 18441,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -2227,7 +2227,7 @@
                 "open_issues": 589,
                 "owner": "junyanz",
                 "repo": "pytorch-CycleGAN-and-pix2pix",
-                "stars": 25284,
+                "stars": 25285,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -2260,7 +2260,7 @@
                 "open_issues": 12,
                 "owner": "NVlabs",
                 "repo": "stylegan",
-                "stars": 14414,
+                "stars": 14413,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -2444,7 +2444,7 @@
             "open_issues": 30,
             "owner": "wiseodd",
             "repo": "generative-models",
-            "stars": 7492,
+            "stars": 7491,
             "topics": [
               "gan",
               "generative-model",
@@ -2560,7 +2560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T11:52:42.777Z",
+    "last_updated": "2026-11-25T10:44:46.392Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome GAN applications and demo",
@@ -2572,7 +2572,7 @@
       "open_issues": 20,
       "owner": "nashory",
       "repo": "gans-awesome-applications",
-      "stars": 5105,
+      "stars": 5106,
       "topics": [
         "applications",
         "curated-list",
