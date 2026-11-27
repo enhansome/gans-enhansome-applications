@@ -162,7 +162,7 @@
                 "open_issues": 58,
                 "owner": "kaonashi-tyc",
                 "repo": "zi2zi",
-                "stars": 2755,
+                "stars": 2756,
                 "topics": [
                   "chinese-characters",
                   "deep-learning",
@@ -620,11 +620,11 @@
                 "id": 871368615,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T06:31:38Z",
-                "open_issues": 138,
+                "last_commit": "2026-11-27T05:20:27Z",
+                "open_issues": 139,
                 "owner": "NVlabs",
                 "repo": "Sana",
-                "stars": 9903,
+                "stars": 9911,
                 "topics": [
                   "diffusion",
                   "dit",
@@ -743,7 +743,7 @@
                 "open_issues": 66,
                 "owner": "NVlabs",
                 "repo": "eg3d",
-                "stars": 3337,
+                "stars": 3338,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -889,7 +889,7 @@
                 "open_issues": 45,
                 "owner": "NVlabs",
                 "repo": "DG-Net",
-                "stars": 1299,
+                "stars": 1298,
                 "topics": [
                   "apex",
                   "cuhk-np",
@@ -931,7 +931,7 @@
                 "open_issues": 319,
                 "owner": "AliaksandrSiarohin",
                 "repo": "first-order-model",
-                "stars": 14984,
+                "stars": 14983,
                 "topics": [
                   "deep-learning",
                   "generative-model",
@@ -957,7 +957,7 @@
                 "open_issues": 372,
                 "owner": "Rudrabha",
                 "repo": "Wav2Lip",
-                "stars": 13289,
+                "stars": 13290,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -1052,7 +1052,7 @@
                 "open_issues": 59,
                 "owner": "junyanz",
                 "repo": "CycleGAN",
-                "stars": 12882,
+                "stars": 12883,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -1350,7 +1350,7 @@
                 "open_issues": 131,
                 "owner": "advimman",
                 "repo": "lama",
-                "stars": 10417,
+                "stars": 10418,
                 "topics": [
                   "cnn",
                   "colab",
@@ -1456,7 +1456,7 @@
                 "open_issues": 153,
                 "owner": "tensorlayer",
                 "repo": "SRGAN",
-                "stars": 3466,
+                "stars": 3464,
                 "topics": [
                   "cnn",
                   "gan",
@@ -1537,7 +1537,7 @@
                 "open_issues": 649,
                 "owner": "xinntao",
                 "repo": "Real-ESRGAN",
-                "stars": 37667,
+                "stars": 37696,
                 "topics": [
                   "amine",
                   "denoise",
@@ -1595,7 +1595,7 @@
                 "open_issues": 11,
                 "owner": "tkarras",
                 "repo": "progressive_growing_of_gans",
-                "stars": 6176,
+                "stars": 6175,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -1616,7 +1616,7 @@
                 "open_issues": 107,
                 "owner": "tamarott",
                 "repo": "SinGAN",
-                "stars": 3346,
+                "stars": 3345,
                 "topics": [
                   "animation",
                   "arbitrery-sizes",
@@ -1650,7 +1650,7 @@
                 "open_issues": 25,
                 "owner": "NVlabs",
                 "repo": "stylegan2",
-                "stars": 11188,
+                "stars": 11186,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -1761,7 +1761,7 @@
                 "open_issues": 87,
                 "owner": "thunil",
                 "repo": "TecoGAN",
-                "stars": 6129,
+                "stars": 6131,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -2170,7 +2170,7 @@
                 "open_issues": 404,
                 "owner": "TencentARC",
                 "repo": "GFPGAN",
-                "stars": 37736,
+                "stars": 37739,
                 "topics": [
                   "deep-learning",
                   "face-restoration",
@@ -2260,7 +2260,7 @@
                 "open_issues": 12,
                 "owner": "NVlabs",
                 "repo": "stylegan",
-                "stars": 14412,
+                "stars": 14411,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -2281,7 +2281,7 @@
                 "open_issues": 100,
                 "owner": "NVlabs",
                 "repo": "SPADE",
-                "stars": 7721,
+                "stars": 7719,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:38:14.127Z"
@@ -2333,7 +2333,7 @@
                 "open_issues": 49,
                 "owner": "ajbrock",
                 "repo": "BigGAN-PyTorch",
-                "stars": 2929,
+                "stars": 2928,
                 "topics": [
                   "biggan",
                   "deep-learning",
@@ -2444,7 +2444,7 @@
             "open_issues": 30,
             "owner": "wiseodd",
             "repo": "generative-models",
-            "stars": 7490,
+            "stars": 7489,
             "topics": [
               "gan",
               "generative-model",
@@ -2560,7 +2560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T10:16:24.095Z",
+    "last_updated": "2026-11-27T10:22:42.343Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome GAN applications and demo",
